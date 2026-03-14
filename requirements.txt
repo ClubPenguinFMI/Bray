@@ -1,0 +1,8 @@
+spacy~=3.8.11
+glirel~=1.2.1
+loguru
+huggingface_hub==0.23.5
+tiktoken
+protobuf
+transformers==4.36.2
+sentencepiece
