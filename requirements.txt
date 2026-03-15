@@ -4,5 +4,11 @@ loguru
 huggingface_hub==0.23.5
 tiktoken
 protobuf
-transformers==4.36.2
+transformers==4.38.2
 sentencepiece
+huggingface_hub
+yfinance
+seaborn
+matplotlib
+sec_edgar_downloader
+bs4
