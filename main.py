@@ -221,17 +221,21 @@ def get_ticker_safe(text):
     except Exception:
         return None
 
-def filter_chunks(chunks, nlp):
-    valid = []
-    for chunk in chunks:
+def filter_chunks(chunks, nlp, max_workers=10):
+    def check_chunk(chunk):
         doc = nlp.make_doc(chunk)
         for name, proc in nlp.pipeline:
             if name == "glirel":
                 break
             doc = proc(doc)
         unique_ents = {ent.text.lower() for ent in doc.ents}
-        if len(unique_ents) >= 2:
-            valid.append(chunk)
+        return chunk if len(unique_ents) >= 2 else None
+
+    valid = []
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        results = executor.map(check_chunk, chunks)
+        valid = [chunk for chunk in results if chunk is not None]
+
     return valid
 
 def read_text(filepath):
@@ -271,8 +275,8 @@ def resolve_company_references(text, ticker):
 
     return " ".join(tokens)
 
-def smart_chunk(text, max_sentences=2):
-    """Chunk text keeping entity-linked sentences together."""
+def smart_chunk(text, max_sentences=1, max_chars=1500):
+    """Chunk text into small pieces that fit GLiNER's token limit."""
     sentencizer = spacy.blank("en")
     sentencizer.add_pipe("sentencizer")
     doc = sentencizer(text.strip())
@@ -283,10 +287,12 @@ def smart_chunk(text, max_sentences=2):
 
     chunks = []
     current_chunk = [sentences[0]]
+    current_len = len(sentences[0].text)
 
     for i in range(1, len(sentences)):
         sent = sentences[i]
         at_limit = len(current_chunk) >= max_sentences
+        too_long = current_len + len(sent.text) > max_chars
 
         first_token = sent[0].lower_ if len(sent) > 0 else ""
         linking_words = {
@@ -296,11 +302,13 @@ def smart_chunk(text, max_sentences=2):
         }
         is_linked = first_token in linking_words
 
-        if is_linked and not at_limit:
+        if is_linked and not at_limit and not too_long:
             current_chunk.append(sent)
+            current_len += len(sent.text)
         else:
             chunks.append(" ".join(s.text.strip() for s in current_chunk))
             current_chunk = [sent]
+            current_len = len(sent.text)
 
     if current_chunk:
         chunks.append(" ".join(s.text.strip() for s in current_chunk))
@@ -576,6 +584,7 @@ def main():
     # download_filings(SUPPLY_CHAIN_CLUSTER.keys())
 
     for ticker in SUPPLY_CHAIN_CLUSTER.keys():
+        print("Processing Supply Chain for " + ticker)
         file = find_filing_file("filings", ticker)
 
         text = read_text(file)
@@ -609,7 +618,7 @@ def process_file_stock(text, entity):
     nlp.add_pipe("gliner_custom")
     nlp.add_pipe("glirel", after="gliner_custom")
 
-    # text = clean_filing_text(read_text(file_name))
+    text = clean_filing_text(text)
 
 
     labels = {"glirel_labels": {
@@ -633,7 +642,10 @@ def process_file_stock(text, entity):
 
     cleaned = remove_stop_words(resolve_company_references(text, entity))
     chunks = smart_chunk(cleaned)
+    print(f"  Chunks before filter: {len(chunks)}")
     chunks = filter_chunks(chunks, nlp)
+    print(f"  Chunks after filter: {len(chunks)}")
+
     print(f"Processing {len(chunks)} chunks...\n")
     all_entities, all_relations = process_all_chunks(chunks, nlp, labels)
 
@@ -649,7 +661,7 @@ def process_file_stock(text, entity):
     #     # for ent in doc.ents:
     #     #     print(f"  '{ent.text}' -> {ent.label_}")
     #     all_relations.extend(doc._.relations)
-
+    print(f"Raw relations before filter: {len(all_relations)}")
     relations = filter_data(all_relations, entity)
 
     print('Number of relations:', len(relations))
@@ -693,10 +705,10 @@ def search_file_for_tickers():
 
 if __name__ == '__main__':
     # search_file_for_tickers()
-    # start_time = time.time()
-    # process_file_stock("qcm.txt", "Qualcomm")
-    # end_time = time.time()
-    # print("\nTime taken:", end_time - start_time)
+    start_time = time.time()
+    process_file_stock(read_text("nvda.txt"), "NVDA")
+    end_time = time.time()
+    print("\nTime taken:", end_time - start_time)
 
-    main()
+    # main()
 
