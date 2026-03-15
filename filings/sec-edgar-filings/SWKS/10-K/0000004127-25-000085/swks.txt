@@ -1,0 +1,1488 @@
+ MenuMenu
+ SectionsSections
+Search Facts
+ DataData
+ TagsTags
+ More FiltersMore Filters
+Facts 42
+swks-20251003.htm42
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K/A
+Amendment No. 1
+☑	ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the fiscal year ended October 3, 2025
+OR
+☐	TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+For the transition period from __________to__________
+Commission file number 001-05560
+Skyworks Solutions, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware	04-2302115
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+5260 California Avenue	92617
+Irvine, California
+(Address of principal executive offices)	(Zip Code)
+
+(949)	231-3000
+(Registrant’s telephone number, including area code)
+
+
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class	Trading Symbol(s)	Name of each exchange on which registered
+Common Stock, par value $0.25 per share	SWKS	Nasdaq Global Select Market
+
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. þ Yes o No
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act. o Yes þ No
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. þ Yes o No
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). þ Yes o No
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company,” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer	þ	Accelerated filer ☐
+Non-accelerated filer ☐
+ Smaller reporting company	☐	Emerging growth company	☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. þ
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to § 240.10D-1(b). ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). ☐ Yes þ No
+The aggregate market value of the registrant’s common stock held by non-affiliates of the registrant (based on the closing price of the registrant’s common stock as reported on the Nasdaq Global Select Market on March 28, 2025, the last business day of the registrant’s most recently completed second fiscal quarter) was approximately $9.8 billion. The number of outstanding shares of the registrant’s common stock, par value $0.25 per share, as of January 26, 2026, was 149,935,620.
+
+1
+
+EXPLANATORY NOTE
+
+This Amendment No. 1 amends the Annual Report on Form 10-K of Skyworks Solutions, Inc. (“we”, “our”, “ours”, “us”, “Skyworks” or the “Company”), for the year ended October 3, 2025, which was filed with the Securities and Exchange Commission (“SEC”) on November 7, 2025 (the “Original Filing”). In addition, the following is a list of certain terms that may be referenced throughout the document:
+•Board: Board of Directors of Skyworks
+•IoT (Internet of Things): the interconnection of uniquely identifiable embedded computing devices within the existing internet infrastructure
+
+The Company is filing this Amendment No. 1 for the sole purpose of providing the information required in Part III of Form 10-K, as the Company’s 2026 Annual Meeting of Stockholders is scheduled for May 13, 2026, and, accordingly, the Company’s Proxy Statement relating to such Annual Meeting will be filed after the date hereof. Except as described above, this Amendment No. 1 does not amend any other information set forth in the Original Filing, and the Company has not updated disclosures included therein to reflect any subsequent events.
+
+2
+
+PART III
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE.
+Directors and Executive Officers
+The following table sets forth for each director and executive officer of the Company his or her position with the Company as of January 26, 2026:
+
+Name		Title
+Philip G. Brace		Director, Chief Executive Officer and President
+Christine King		Chairman of the Board
+Alan S. Batey		Director
+Kevin L. Beebe		Director
+Eric J. Guerin		Director
+Suzanne E. McBride		Director
+David P. McGlade		Director
+Robert A. Schriesheim		Director
+Maryann Turcke		Director
+Philip Carter		Senior Vice President and Chief Financial Officer
+Karilee A. Durham		Senior Vice President, Human Resources
+Reza Kasnavi		Executive Vice President, Chief Operations and Technology Officer
+Robert J. Terry		Senior Vice President, General Counsel and Secretary
+
+Directors
+Philip G. Brace, age 55, has been Chief Executive Officer and President and a director of the Company since February 2025. Previously, Mr. Brace served as Executive Chairman of Inseego Corp. (“Inseego”) (a publicly traded designer and developer of wireless broadband and IoT solutions) from February 2024 to February 2025 and served on the board of directors of Inseego from September 2023 to February 2025. Before that, Mr. Brace was President and Chief Executive Officer of Sierra Wireless Inc. (a formerly publicly traded provider of IoT solutions) from July 2021 to January 2023 where he led the company through significant improvements. Mr. Brace also held previous roles as Executive Vice President of Veritas Software Technology Corp (a formerly publicly traded provider of data management and protection solutions for businesses) from 2019 to 2021, and President of Cloud Systems and Electronic Solutions at Seagate Technology Holdings PLC (a publicly traded manufacturer of data storage products) from 2015 to 2017. Previously, Mr. Brace served in engineering and management roles at Intel Corporation (a publicly traded developer of computer components) and LSI Corporation (a formerly publicly traded semiconductor designer acquired by Avago Technologies Limited).
+Other Public Company Boards
+Current
+•BlackBerry Limited
+Past 5 Years
+•Inseego Corp. (until 2025)
+•Lantronix, Inc. (until 2025)
+•Sierra Wireless, Inc. (until 2023)
+
+
+3
+
+
+Qualifications: Mr. Brace’s qualifications to serve as a director include his deep understanding of the semiconductor industry and his prior executive experience in the server, IoT and storage industries, as well as his track record of helping businesses enhance their product lines, market penetration and growth.
+
+Christine King, age 76, has been Chairman of the Board since February 2025 and a director since 2014. Previously, Ms. King was Lead Independent Director from 2019 to February 2025. Ms. King served as Executive Chairman of QLogic Corporation (a publicly traded developer of high performance server and storage networking connectivity products) from August 2015 until August 2016, when it was acquired by Cavium, Inc. Previously, she served as Chief Executive Officer of Standard Microsystems Corporation (“Standard Microsystems”) (a publicly traded developer of silicon-based integrated circuits utilizing analog and mixed-signal technologies) from 2008 until the company’s acquisition in 2012 by Microchip Technology, Inc. Prior to Standard Microsystems, Ms. King was Chief Executive Officer of AMI Semiconductor, Inc., a publicly traded company, from 2001 until it was acquired by ON Semiconductor Corp. in 2008.
+Other Public Company Boards
+Current
+•None
+Past 5 Years
+•Allegro MicroSystems, Inc. (until 2021)
+•IDACORP, Inc. (until 2021)
+
+
+Qualifications: Ms. King’s qualifications to serve as a director include her extensive management and operational experience in the high-tech and semiconductor industries as well as her significant strategic and financial expertise.
+
+Alan S. Batey, age 62, has been a director since 2019. Mr. Batey served as Executive Vice President and President of North America for General Motors Company (a publicly traded automotive manufacturer), as well as the Global Brand Chief for Chevrolet, a division of General Motors Company, from 2014 until 2019. His career spans more than 39 years with General Motors where he held various senior management positions in operations, marketing, and sales around the world.
+Other Public Company Boards
+Current
+•None
+Past 5 Years
+•None
+
+
+Qualifications: Mr. Batey’s qualifications to serve as a director include his extensive senior management experience at General Motors, where he developed expertise on a broad set of complex strategic, operational, and technological matters involving the automotive industry, an industry that is expected to be a growth market for the Company.
+
+4
+
+
+Kevin L. Beebe, age 66, has been a director since 2004. He has been President and Chief Executive Officer of 2BPartners, LLC (a partnership that provides strategic, financial, and operational advice to private equity investors and management) since 2007. In 2014, Mr. Beebe became a founding partner of Astra Capital Management (a private equity firm based in Washington, D.C.). Previously, beginning in 1998, he was Group President of Operations at ALLTEL Corporation (a telecommunications services company).
+Other Public Company Boards
+Current
+•SBA Communications Corporation
+Past 5 Years
+•Frontier Communications Parent, Inc. (formerly Frontier Communications Corporation) (until 2026)
+•Altimar Acquisition Corporation (until 2021)
+•Altimar Acquisition Corp. II (until 2021)
+
+
+Qualifications: Mr. Beebe’s qualifications to serve as a director include his two decades of experience as an operating executive in the wireless telecommunications industry as well as his experience and relationships gained from advising leading private equity firms that are transacting business in the global capital markets.
+
+Eric J. Guerin, age 54, has been a director since 2022. He currently serves as Chief Financial Officer of RB Global, Inc. (a publicly traded provider of insights, services and transaction solutions for buyers and sellers of commercial assets and vehicles), a role he has held since January 2024. Previously, Mr. Guerin served as Senior Vice President and Chief Financial Officer of Veritiv Corporation (a formerly publicly traded provider of packaging and hygiene products), from March 2023 to December 2023 and its Senior Vice President-Finance from January 2023 to March 2023. Prior to that, he served as Executive Vice President and Chief Financial Officer of CDK Global Inc. (a formerly publicly traded provider of integrated technology solutions to the automotive industry) from 2021 to 2022. From 2016 to 2021, he served as Division Vice President and sector Chief Financial Officer at Corning Glass Technologies, a division of Corning, Inc. Previously, he served in financial leadership roles with Flowserve Corporation, Novartis Corporation, Johnson & Johnson Services Inc., and AstraZeneca PLC.
+Other Public Company Boards
+Current
+•None
+Past 5 Years
+•Natus Medical Incorporated (until 2022)
+
+
+Qualifications: Mr. Guerin’s qualifications to serve as a director include his financial and operational expertise across multiple dynamic markets.
+
+5
+
+
+Suzanne E. McBride, age 57, has been a director since 2022. Ms. McBride serves as Chief Operations Officer for Iridium Communications Inc. (“Iridium”) (a publicly traded operator of a global satellite communications network). Prior to rejoining Iridium in February 2019, where she had previously served from 2007 to 2016 in various leadership roles, Ms. McBride served from June 2016 to January 2019 as Senior Vice President and Chief Operations Officer for OneWeb (a privately held company building a space-based global communications network that filed a voluntary petition for Chapter 11 bankruptcy protection in 2020). Earlier in her career, she held a series of increasingly senior positions in technology and operations with Motorola Solutions, Inc. (a publicly traded telecommunications company) and General Dynamics Corporation (a publicly traded aerospace and defense company).
+Other Public Company Boards
+Current
+•Iridium Communications Inc.
+Past 5 Years
+•None
+
+
+Qualifications: Ms. McBride’s qualifications to serve as a director include her extensive strategy and operations expertise developed through twenty-five years of experience within the wireless technology industry.
+
+David P. McGlade, age 65, has been a director since 2005. He served as Chairman of the Board of Intelsat S.A. (“Intelsat”) (a formerly publicly traded worldwide provider of satellite communication services) from April 2013 to February 2022. Mr. McGlade served as Executive Chairman of Intelsat from April 2015 to March 2018, prior to which he served as Chairman and Chief Executive Officer. Mr. McGlade joined Intelsat in April 2005 and was the Deputy Chairman of Intelsat from August 2008 until April 2013. Previously, Mr. McGlade served as an Executive Director of mmO2 PLC and as the Chief Executive Officer of O2 UK (a subsidiary of mmO2), a position he held from October 2000 until March 2005.
+Other Public Company Boards
+Current
+•None
+Past 5 Years
+•Intelsat S.A. (until 2022)
+
+
+Qualifications: Mr. McGlade’s qualifications to serve as a director include his significant operational, strategic, and financial acumen, as well as his knowledge about global capital markets, developed over approximately four decades of experience in the telecommunications business.
+
+6
+
+
+Robert A. Schriesheim, age 65, has been a director since 2006 and served as the Interim Chief Financial Officer of the Company from May 2025 to September 2025. He has been chairman of Truax Partners LLC (a consulting firm) since 2018 and has served as Adjunct Associate Professor of Finance at The University of Chicago Booth School of Business since September 2023. He served as Executive Vice President and Chief Financial Officer of Sears Holdings Corporation (a publicly traded nationwide retailer) from August 2011 to October 2016. From January 2010 to October 2010, Mr. Schriesheim was Chief Financial Officer of Hewitt Associates, Inc. (a global human resources consulting and outsourcing company that was acquired by Aon Corporation). From October 2006 until December 2009, he was the Executive Vice President and Chief Financial Officer of Lawson Software, Inc. (a formerly publicly traded ERP software provider acquired by GGC Software Holdings, Inc. in 2011).
+Other Public Company Boards
+Current
+•Houlihan Lokey, Inc., Lead Independent Director
+•Alight, Inc.
+Past 5 Years
+•Indivior PLC (until 2025)
+•Frontier Communications Corporation (until 2021)
+
+
+Qualifications: Mr. Schriesheim’s qualifications to serve as a director include his extensive knowledge of the capital markets and corporate financial capital structures, his expertise evaluating and structuring merger and acquisition transactions within the technology sector, and his experience gained through leading companies through major strategic and financial corporate transformations.
+
+Maryann Turcke, age 60, has been a director since 2023. Most recently, she served as a senior advisor at Brookfield Asset Management from September 2020 to September 2022. Previously, Ms. Turcke served as Chief Operating Officer of the National Football League (“NFL”) from January 2018 to September 2020 and as a Senior Advisor for the NFL from September 2020 to May 2021. She joined the league as President of NFL Network, Digital Media, NFL Films and IT in April 2017. Prior to the NFL, Ms. Turcke served for more than a decade in various leadership roles within BCE Inc. (a publicly traded communications company formerly known as Bell Canada Enterprises), including serving from April 2015 to February 2017 as president of Bell Media, a division of BCE.
+Other Public Company Boards
+Current
+•Royal Bank of Canada
+Past 5 Years
+•Frontier Communications Parent, Inc. (formerly Frontier Communications Corporation) (until 2026)
+•Northern Star Investment Corp. II (until 2023)
+
+
+Qualifications: Ms. Turcke’s qualifications to serve as a director include her significant operational, management and financial experience, including in the telecommunications industry.
+
+In addition to the information presented above regarding each director’s specific experience, qualifications, attributes, and skills that led our Board to conclude that he or she should serve as a director, we also believe that each of our directors has a reputation for integrity, honesty, and adherence to high ethical standards. They have each demonstrated business acumen, an ability to exercise sound judgment, and a commitment of service to Skyworks. Each of our directors will serve until the 2026 Annual Meeting of Stockholders and until their successors are elected and qualified or until their earlier resignation or removal.
+Executive Officers (other than the Chief Executive Officer)
+Philip Carter, age 47, has been Senior Vice President and Chief Financial Officer of the Company since September 2025. Mr. Carter previously served as Vice President, Corporate Controller of the Company from February 2017 to
+7
+
+
+November 2024. From November 2024 to September 2025, Mr. Carter was Corporate Vice President, Chief Accounting Officer at Advanced Micro Devices, Inc. (a high performance and adaptive computing leader).
+
+Karilee A. Durham, age 57, joined the Company in April 2018 and is Senior Vice President, Human Resources. Previously, Ms. Durham served as Senior Vice President, Human Resources and General Affairs for Goodman Global Group, Inc. (an HVAC manufacturing and distribution company) from September 2010 to April 2018. Earlier, she held multiple senior human resources positions with Dell Inc. (a computer retailer) from October 2007 to September 2010, prior to which she held human resources positions at Flextronics International Ltd., Solectron Corporation, and UT-Battelle LLC.
+
+Reza Kasnavi, age 52, joined the Company in 2010 and has served as Executive Vice President, Chief Operations and Technology Officer since March 2025. He previously served as Senior Vice President, Technology and Manufacturing, from November 2019 to March 2025, as Vice President and General Manager, Open Market Platforms, from November 2012 to September 2018, and as Vice President, Central Engineering and Quality, from September 2018 to November 2019. Prior to joining Skyworks, Dr. Kasnavi spent 10 years as an investor and executive with Tallwood Venture Capital (an investment firm focused on semiconductor-related technologies and markets), holding various leadership positions at several Tallwood portfolio companies including Sequoia Communications.
+
+Robert J. Terry, age 59, joined the Company in 2003 and has served as Senior Vice President, General Counsel and Secretary since November 2017. He previously served as Vice President, General Counsel and Secretary from November 2016 to November 2017 and as Vice President, Associate General Counsel and Assistant Secretary from June 2011 to November 2016. Before joining Skyworks, he served as General Counsel and Secretary for Day Software, Inc. (“Day Software”) (an enterprise content management software company), from July 2001 to February 2003. Prior to joining Day Software, Mr. Terry was in private practice, focusing on corporate and securities matters, mergers and acquisitions, and general business litigation.
+Audit Committee
+We have established an Audit Committee consisting of the following individuals, each of whom qualifies as independent within the meaning of the applicable Listing Rules of the Nasdaq Stock Market LLC (the “Nasdaq Rules”) and meets the criteria for independence set forth in Rule 10A-3(b)(1) under the Securities Exchange Act of 1934 (“Exchange Act”): David P. McGlade (Chairman), Eric Guerin, and Christine King. The Board has determined that each of Mr. McGlade (Chairman), Mr. Guerin, and Ms. King meets the qualifications of an “audit committee financial expert” under SEC Rules and the qualifications of “financial sophistication” under the applicable Nasdaq Rules.
+Code of Ethics
+We have adopted a written code of business conduct and ethics that applies to our directors, officers, and employees, including our principal executive officer, principal financial officer, principal accounting officer or controller, or persons performing similar functions. We make available our code of business conduct and ethics free of charge through our website at www.skyworksinc.com. We intend to disclose any amendments to, or waivers from, our code of business conduct and ethics that are required to be publicly disclosed by posting any such amendment or waivers on our website pursuant to SEC requirements and Nasdaq Rules.
+8
+
+
+Insider Trading Policy
+We have adopted the Skyworks Solutions, Inc. Company Policy Regarding Insider Trading and Disclosure of Material Non-Public Information governing the purchase, sale, and/or other dispositions of the Company’s securities by directors, officers and employees, which the Company believes is reasonably designed to promote compliance with insider trading laws, rules and regulations, and any listing standards applicable to the Company. A copy of the Skyworks Solutions, Inc. Company Policy Regarding Insider Trading and Disclosure of Material Non-Public Information is filed as Exhibit 19 to this Form 10-K/A.
+9
+
+
+ITEM 11. EXECUTIVE COMPENSATION.
+Compensation Discussion and Analysis
+Named Executive Officers
+This Compensation Discussion and Analysis section discusses the compensation policies and programs for our Named Executive Officers during our fiscal year ended October 3, 2025 (“fiscal year 2025”), as determined under the rules of the SEC. For fiscal year 2025, our Named Executive Officers were:
+
+• Philip G. Brace, Chief Executive Officer and President;
+• Philip Carter, Senior Vice President and Chief Financial Officer;
+• Reza Kasnavi, Executive Vice President, Chief Operations and Technology Officer;
+• Robert J. Terry, Senior Vice President, General Counsel and Secretary;
+• Karilee A. Durham, Senior Vice President, Human Resources;
+• Liam K. Griffin, Former Chairman, Chief Executive Officer and President;
+• Kris Sennesael, Former Senior Vice President and Chief Financial Officer; and
+• Robert A. Schriesheim, Former Interim Chief Financial Officer.
+Chief Executive Officer Transition
+Following a rigorous, thoughtful and thorough CEO search process conducted by the Board with the assistance of an executive search firm, Skyworks identified Mr. Brace as Mr. Griffin’s successor. In February 2025, the Company announced that Mr. Brace would become Chief Executive Officer and President and a member of the Board, effective February 17, 2025. Mr. Griffin ceased serving as Chief Executive Officer and President and a member of the Board on February 17, 2025 and thereafter served in a non-executive advisory role for three months to support the leadership transition, after which his employment with the Company ended on May 16, 2025.
+Chief Financial Officer Transition
+On May 1, 2025, Mr. Sennesael informed the Company that he would resign from the Company, effective May 9, 2025, to accept another position, and his employment with the Company ended on May 9, 2025. On May 7, 2025, the Company announced that Mark P. Dentinger would be joining the Company as Senior Vice President and Chief Financial Officer, effective June 2, 2025. However, due to an unforeseen medical condition, Mr. Dentinger did not commence employment with the Company. On May 29, 2025, the Company announced that it had appointed Mr. Schriesheim, a member of the Board, as the Company’s Interim Chief Financial Officer and that it had commenced a search for a permanent Chief Financial Officer. Following an extensive search process with the assistance of an executive search firm, the Board appointed Mr. Carter as Senior Vice President and Chief Financial Officer, effective September 8, 2025, at which time Mr. Schriesheim ceased serving as Interim Chief Financial Officer.
+Engagement with Stockholders Regarding Executive Compensation
+In evaluating and establishing our executive compensation policies and programs, our Compensation and Talent Committee values and actively considers the opinions expressed by our stockholders through the “say-on-pay” advisory vote at each annual stockholder meeting, as well as through our ongoing stockholder engagement efforts. At our 2025 Annual Meeting of Stockholders (the “2025 Annual Meeting”), approximately 91% of the votes cast approved our “say-on-pay” proposal, reflecting continued support for our compensation policies and determinations for our fiscal year ended September 27, 2024 (“fiscal year 2024”).
+10
+
+
+
+Following the 2025 Annual Meeting, we continued our annual stockholder engagement efforts by conducting outreach to 19 institutional stockholders representing approximately 60% of the Company’s shares outstanding. Stockholders representing approximately 49% of the Company’s shares outstanding responded to the outreach, either with written feedback, a request to speak, or by declining the invitation. Generally, investors who declined a meeting noted that they did so because they did not have any concerns to discuss. We held engagement meetings with each of those stockholders who requested to meet, representing approximately 18% of the Company’s shares outstanding. The Chairman of the Board, Ms. King, was actively involved in stockholder engagement.
+
+During these conversations, institutional stockholders were interested in discussing a range of topics beyond executive compensation, including our Chief Executive Officer transition in February 2025, the composition of the Board, business performance and strategy, our efforts to eliminate the supermajority vote provisions from our Restated Certificate of Incorporation, and our sustainability program.
+
+Input and feedback from our stockholders during the most recent outreach, as well as the ongoing dialogue we have shared with stockholders for many years, continues to directly inform the evolution of our compensation practices.
+Fiscal Year 2025 Changes
+For our fiscal year 2025, the Compensation and Talent Committee made changes to our long-term stock-based incentives for executives that were directly responsive to stockholder feedback. Effective for the fiscal year 2025 performance share awards (“PSAs”) granted to Named Executive Officers on November 5, 2024, both the performance period and vesting period for the EBITDA margin percentile ranking metric were increased from two years to three years.
+Approach for Determining Form and Amounts of Compensation
+The Compensation and Talent Committee, which is composed solely of independent directors within the meaning of applicable Nasdaq Rules and non-employee directors within the meaning of Rule 16b-3 under the Exchange Act, is responsible for determining all components and amounts of compensation to be paid to our Named Executive Officers, as well as any other executive officers or employees who report directly to the Chief Executive Officer. The Compensation and Talent Committee sets compensation for the Named Executive Officers, including base salary, short-term incentives, and long-term stock-based incentives, at levels generally intended to be competitive with the compensation of comparable executives in semiconductor companies with which we compete for executive talent and to link the compensation of our Named Executive Officers to improvements in the Company’s financial performance and increases in stockholder value.
+
+Compensation Program Objectives
+The objectives of our executive compensation program are to attract, retain, and motivate highly qualified executives to operate our business, and to link the compensation of those executives to improvements in the Company’s financial performance and increases in stockholder value. Accordingly, the Compensation and Talent Committee’s goals in establishing our executive compensation program include:
+•ensuring that our executive compensation program is competitive with a group of companies in the semiconductor industry with which we compete for executive talent;
+•providing a base salary that serves as the foundation of a compensation package that attracts and retains the executive talent needed to achieve our business objectives;
+•providing short-term variable compensation that motivates executives and rewards them for achieving Company financial performance targets;
+11
+
+
+•providing long-term stock-based compensation that aligns the interest of our executives with stockholders by rewarding them for long-term increases in stockholder value; and
+•ensuring that our executive compensation program is perceived as fundamentally fair to our employees.
+
+Retention of Compensation Consultant
+The Compensation and Talent Committee has engaged Aon Consulting (“Aon”) to assist in determining the components and amount of executive compensation. Aon reports directly to the Compensation and Talent Committee, through its chairman, and the Compensation and Talent Committee retains the right to terminate or replace the consultant at any time. The Compensation and Talent Committee has considered the relationships that Aon has with the Company, the members of the Compensation and Talent Committee and our executive officers, as well as the policies that Aon has in place to maintain its independence and objectivity, and has determined that Aon’s work for the Compensation and Talent Committee has not raised any conflicts of interest. Company management also purchases published compensation and benefits surveys from Aon, and on occasion engages certain affiliates of Aon in various jurisdictions for services unrelated to executive compensation and benefits, engagements for which the Company’s management has not sought the Compensation and Talent Committee’s approval. The fees paid to Aon and its affiliates in fiscal year 2025 for these surveys and additional services did not exceed $120,000.
+
+Use of Comparator Group Data
+The Compensation and Talent Committee annually compares the components and amounts of compensation that we provide to our Chief Executive Officer and each of the other Named Executive Officers with “Comparator Group” data for each position and uses this comparison data to help inform its review and determination of base salaries, short-term incentives, and long-term stock-based compensation awards, as discussed in further detail below under “Components of Compensation.” For fiscal year 2025, the Compensation and Talent Committee approved Comparator Group data consisting of a 50/50 blend of (i) Aon survey data of semiconductor companies (where sufficient data was not available in the Aon semiconductor survey data for a given executive position, the Comparator Group data also included survey data regarding high-technology companies), and (ii) data from the group of 18 publicly traded semiconductor companies listed below.
+
+Each year the Compensation and Talent Committee engages Aon to assess the peer group. Using this information, the Compensation and Talent Committee seeks to create a peer group comprised of semiconductor companies. Consolidation within the semiconductor industry over time has resulted in fewer semiconductor companies that are of similar market capitalization and revenue as Skyworks. As a result, when considering companies to potentially include in the peer group, the Compensation and Talent Committee also considers companies in adjacent industries, such as the semiconductor manufacturing equipment industry, as well as companies with smaller or greater revenue or market capitalization than the Company, many of which are business competitors and companies with which we compete for executive talent.
+
+For the Company’s fiscal year 2025 compensation program, we made an adjustment to our peer group from the prior fiscal year by adding GlobalFoundries, a semiconductor company.
+
+Peer Group for Fiscal Year 2025 Compensation (“FY25 Peer Group”)
+Advanced Micro Devices	Lam Research	NXP Semiconductors	Teradyne
+Analog Devices	Marvell Technology	ON Semiconductor	Texas Instruments
+Entegris	Microchip Technology	Qorvo	Western Digital
+GlobalFoundries	Micron Technology	QUALCOMM
+KLA Corporation	Monolithic Power Systems	Seagate Technology
+
+
+12
+
+
+The Compensation and Talent Committee generally seeks to make decisions regarding each Named Executive Officer’s compensation that are competitive within the Comparator Group, with consideration given to the executive’s role, responsibility, performance, and length of service. After reviewing the Comparator Group data and considering the input of Aon, during its regular cycle in November 2024, the Compensation and Talent Committee established (and the full Board was advised of) the base salary, short-term incentive target, and stock-based compensation for each then-Named Executive Officer for fiscal year 2025. Aon advised the Compensation and Talent Committee that such components of executive compensation for fiscal year 2025 were competitive for chief executive officers and other executive officers at companies of similar size and complexity in the semiconductor industry.
+
+For the compensation of the Named Executive Officers as of November 2024, other than Mr. Griffin, the Compensation and Talent Committee received input from Mr. Griffin, the then-Chief Executive Officer. Along with this input, the Compensation and Talent Committee considered each individual’s responsibilities and experience, as well as internal factors such as scope of role and level in the organization and external factors such as the current environment for attracting and retaining executives.
+
+Compensation Approach for Our Chief Executive Officer
+In determining the compensation of our then-Chief Executive Officer for fiscal year 2025, the Compensation and Talent Committee focused on (i) competitive levels of compensation for chief executive officers who are leading companies of similar size and complexity, (ii) the importance of retaining and incentivizing a chief executive officer with the strategic, financial, and leadership skills necessary to ensure our continued growth and success, and (iii) our Chief Executive Officer’s role relative to the other Named Executive Officers.
+
+For Mr. Griffin’s compensation for fiscal year 2025, which was determined in November 2024, in addition to the foregoing factors, the Compensation and Talent Committee also considered input from the full Board on his prior performance. Mr. Griffin was not present during the voting or deliberations of the Compensation and Talent Committee concerning his compensation. The Compensation and Talent Committee left Mr. Griffin’s base salary unchanged for fiscal year 2025, the second fiscal year in a row that his base salary was not increased, and the Compensation and Talent Committee approved a long-term incentive award in an amount with a grant date fair value less than what he received in fiscal year 2024.
+
+In connection with the transition of the role of Chief Executive Officer from Mr. Griffin to Mr. Brace in fiscal year 2025, the Compensation and Talent Committee considered several additional factors in setting Mr. Brace’s compensation. In order to induce Mr. Brace to join the Company, the Compensation and Talent Committee took into account, among other things, Mr. Brace’s experience and qualifications, input from Aon, and opportunities to receive significant incremental compensation by continuously increasing shareholder value. The Compensation and Talent Committee sought to prepare an incentive-based compensation package that would align Mr. Brace’s compensation with stockholder interests and the long-term performance of the Company’s stock price.
+
+The Compensation and Talent Committee aimed to achieve this goal by granting Mr. Brace a compensation package heavily weighted towards performance with long-term equity incentive awards. First, to align performance objectives with the executive team, the Company granted Mr. Brace the following equity awards: (i) a restricted stock unit (“RSU”) award for 43,682 shares (the “FY25 Brace RSU”), which is subject to time-based vesting over a period of four years with such vesting deemed to have commenced on November 5, 2024 and (ii) a PSA for 65,524 shares (the “FY25 Brace PSA”), which may be earned upon the achievement of the same performance metrics used for the PSAs granted to the Company’s other executive officers for fiscal year 2025.
+
+In addition, the Company granted Mr. Brace a new hire PSA for 455,028 shares (the “Brace New Hire PSA”), which can be earned based on the level of achievement of stock price hurdles measured during the four-year performance period commencing on February 17, 2027 and ending on February 17, 2031. The stock price hurdles
+13
+
+
+will be measured against a base price of $65.63714, which is equal to the average closing price for the seven trading days following February 5, 2025. Twenty percent of the shares subject to the Brace New Hire PSA are earned upon achievement of each of the price hurdles and vest on the one-year anniversary of the applicable price hurdle achievement date, subject to continued service on such date, as outlined below, representing significant hurdles requiring large sustained increases in the Company’s share price, and linking pay to shareholder value creation.
+
+Tranche	Percentage Increase in Share Price	Share Price Hurdle	Percentage of Total Number of Shares Subject to the Award
+1	+25.00%	$82.04643	20%
+2	+50.00%	$98.45571	20%
+3	+75.00%	$114.86500	20%
+4	+100.00%	$131.27429	20%
+5	+150.00%	$164.09286	20%
+
+
+Compensation Approach for Our Chief Financial Officer
+In determining the compensation offer to induce Mr. Carter to join the Company, the Compensation and Talent Committee took into account, among other things, input from Aon, benchmarking data among peers, Mr. Carter’s experience and qualifications, and the substantial unvested equity awards and other compensation opportunities that Mr. Carter would surrender by leaving his role as Chief Accounting Officer of Advanced Micro Devices, Inc.
+
+The Compensation and Talent Committee sought to tie Mr. Carter’s equity incentive compensation to the long-term performance of the Company’s stock price and the interests of the Company’s stockholders. The Compensation and Talent Committee aimed to achieve this goal by granting Mr. Carter the following equity awards: (i) an RSU award for 39,666 shares, which is subject to time-based vesting over a period of four years with such vesting deemed to have commenced on September 8, 2025 (“Carter New Hire RSU”) and (ii) a PSA for 50,244 shares, which will vest based on the Company’s absolute level of achievement of TSR over the three fiscal year period starting on October 4, 2025 and ending on September 29, 2028, subject to Mr. Carter’s continued employment through November 11, 2028, as further set forth below (“Carter New Hire PSA”).
+
+Performance Achieved
+Minimum	Target	Maximum
+Positive TSR	25.0%	50.0%	75.0%
+% of Shares Earned With Respect to TSR	25.0%	50.0%	100.0%
+
+
+Mr. Carter also received an $800,000 signing bonus to help offset the repayment of a signing bonus he had received from Advanced Micro Devices, Inc. and the forfeiture of restricted stock units granted by Advanced Micro Devices, Inc. that had been scheduled to vest on December 15, 2025.
+Components of Compensation
+The key elements of compensation for our Named Executive Officers are base salary, short-term incentives, long-term stock-based incentives, and health and welfare benefits. For fiscal year 2025, the Compensation and Talent Committee sought to make decisions that would result in each Named Executive Officer’s target total direct compensation being competitive within the Comparator Group, with consideration given to the executive’s role, responsibility, performance, and length of service.
+
+14
+
+
+Base Salary
+The Compensation and Talent Committee annually determines a competitive base salary for each executive officer using the Comparator Group data and input provided by Aon. Base salaries are intended to attract and retain talented executives, recognize individual roles and responsibilities and provide stable income to executives. In order to provide flexibility in consideration of differences in an individual executive’s scope of responsibilities, length of service, and performance, the Compensation and Talent Committee did not target a specific percentile of the Comparator Group for executive officer salaries; however, the salaries of the executive officers were generally near the median of the Comparator Group.
+
+The base salary for Mr. Griffin for fiscal year 2025 was unchanged from fiscal year 2024, the second fiscal year in a row where Mr. Griffin’s base salary was not increased. The base salary increase for fiscal year 2025 for each Named Executive Officer who was also an executive officer of the Company in fiscal year 2024, as reflected in the table below, was effected in November 2024. Each salary increase was based on the market-based salary adjustments recommended by Aon, as well as recommendations by the then-Chief Executive Officer, and took into consideration the scope of duties for such Named Executive Officer.
+
+FY2025
+Base Salary ($)
+FY2024
+Base Salary ($)
+Karilee A. Durham	530,000	500,000
+Reza Kasnavi (1)	650,000	600,000
+Robert J. Terry	585,000	562,000
+Liam K. Griffin	1,175,000	1,175,000
+Kris Sennesael	675,000	630,000
+
+________________________
+(1) In connection with his promotion to Executive Vice President, Chief Operations and Technology Officer, Mr. Kasnavi’s base salary for fiscal year 2025 was increased to $700,000 effective March 15, 2025.
+
+The fiscal year 2025 base salary for each Named Executive Officer who was not an executive officer of the Company in fiscal year 2024 is reflected in the table below.
+
+FY2025
+Base Salary ($)
+Philip G. Brace	900,000
+Philip Carter	600,000
+Robert A. Schriesheim	625,000
+
+
+Short-Term Incentives
+Overview
+Our short-term incentive compensation plan for executive officers is established annually by the Compensation and Talent Committee and is intended to motivate and reward executives by tying a significant portion of their total cash compensation to the Company’s achievement of pre-established performance goals that are generally one year or less in duration. The Compensation and Talent Committee believes that pre-established performance goals under the Company’s short-term incentive compensation plan for executive officers should generally be measured over a one-year performance period.
+
+15
+
+
+Incentive Opportunities
+For each executive officer, short-term incentive compensation at the “target” level is designed to be near the median short-term incentive compensation of the Comparator Group. After reviewing Comparator Group data, the Compensation and Talent Committee determined that the target incentive under the fiscal year 2025 Executive Incentive Plan (the “Incentive Plan”), as a percentage of base salary, for each of the Named Executive Officers should not be changed, as compared to the target incentives under the prior year’s short-term incentive plan.
+
+Excluding Mr. Schriesheim, who was not eligible to receive short-term incentive compensation in his role as Interim Chief Financial Officer, the following table shows the range of short-term incentive compensation that each Named Executive Officer could earn in fiscal year 2025 as a percentage of such executive officer’s annual base salary.
+
+Threshold	Target	Maximum
+Chief Executive Officer	80%	160%	320%
+Chief Financial Officer	50%	100%	200%
+EVP, Chief Operations and Technology Officer (1)	40%	80%	160%
+Other Named Executive Officers	40%	80%	160%
+
+________________________
+(1) When Mr. Kasnavi received a promotion to his current position in March 2025, he received an increase in his short-term incentive opportunity by 10% (from 80% of his prior base salary to 90% of his increased base salary), with an increase in the threshold amount to 45% of base salary and the opportunity to earn up to a maximum of 180% of the target award to the extent the Company exceeds its target performance metrics in fiscal year 2025, in recognition of his new role and responsibilities.
+
+Performance Goals
+In December 2024, the Compensation and Talent Committee established performance goals for the Incentive Plan that were based on achieving revenue and non-GAAP operating income performance goals, each of which was weighted at 50%. The non-GAAP operating income performance goal was measured based on the Company’s publicly disclosed non-GAAP operating income1 after accounting for any incentive award payments, including those to be made under the Incentive Plan.
+
+The target level performance goals were established by the Compensation and Talent Committee under the Incentive Plan after reviewing the Company’s historical operating results, as well as the Company’s business outlook and expected future results relative to peers and were designed to require significant effort and operational success on the part of our executives and the Company. The maximum level performance goals established by the Compensation and Talent Committee have historically been difficult to achieve and are designed to represent outstanding performance that the Compensation and Talent Committee believes should be rewarded.
+
+1 Non-GAAP operating income typically excludes from GAAP operating income the following: share-based compensation expense, acquisition-related expenses, amortization of acquisition-related intangibles, settlements, gains, losses, and impairments and restructuring-related charges.
+16
+
+
+The performance goals established under the Incentive Plan for fiscal year 2025 were as follows:
+
+(in millions)	Revenue	Non-GAAP
+Operating Income
+Threshold	$3,750	$800
+Target	$4,000	$912
+Maximum	$4,400	$1,137
+
+
+The Compensation and Talent Committee seeks to set challenging yet attainable performance goals for incentive compensation to motivate our executives. For fiscal year 2025, the Compensation and Talent Committee, after substantial evaluation and discussion, set target performance goals that were below fiscal year 2024 performance. Nonetheless, the Compensation and Talent Committee believed that these goals reflected an appropriate level of rigor given several factors. The goals were established in alignment with the Company’s annual operating plan for fiscal year 2025, which took into account the broader macroeconomic environment, market conditions and the performance expectations of our stockholders. The Incentive Plan also stipulated that payouts to executives following the end of the fiscal year, under either of the revenue and non-GAAP operating income metrics, were conditioned upon the Company achieving full-year non-GAAP operating income of at least $0.8 billion.
+
+Calculation of Incentive Plan Payments
+Under the Incentive Plan, upon completion of the fiscal year, the Compensation and Talent Committee determined the extent to which the Company’s performance goals were attained, reviewed the Chief Executive Officer’s recommended payouts under the Incentive Plan, and approved the awards to be made under the Incentive Plan.
+
+Achievement under the performance goals at the “threshold,” “target,” or “maximum” level corresponds to payment under the Incentive Plan at the “threshold,” “target,” or “maximum” percentage, as applicable, with such percentage multiplied by the executive’s base salary for fiscal year 2025 and then multiplied by the weighting assigned to that performance goal. The payout for achievement under the performance goals between either the “threshold” and “target” levels or the “target” and “maximum” levels would be based on linear interpolation between the two relevant amounts.
+
+Each executive’s payment under the Incentive Plan is calculated by evaluating achievement of each performance goal individually, determining the portion of the total eligible incentive payment earned with respect to each such performance goal, and totaling the resulting amounts. The Compensation and Talent Committee retained the discretion to make payments, upon consideration of recommendations by the Chief Executive Officer, even if the threshold performance goals were not met or if the nominal level of non-GAAP operating income was not met, or to make payments in excess of the maximum level if the Company’s performance exceeded the maximum performance goals. While the Compensation and Talent Committee believed it was appropriate to retain this discretion in order to make short-term incentive compensation awards in appropriate extraordinary circumstances, no such adjustments were actually made.
+
+Fiscal Year Results
+For fiscal year 2025, the Company’s revenue and non-GAAP operating income achieved were $4,087 million and $995 million, respectively, resulting in a short-term compensation award equal to 129% of the target payment level for each individual who was a Named Executive Officer as of the end of fiscal year 2025. This outcome was largely driven by strong performance and operational execution to meet higher than expected demand for our products.
+
+17
+
+
+In November 2025, upon certifying the level of revenue and non-GAAP operating income that had been achieved for the fiscal year, the Compensation and Talent Committee approved payment of the short-term incentive to the Company’s executives for fiscal year 2025. The Compensation and Talent Committee did not exercise discretion, either upward or downward, to Named Executive Officers’ payments under the Incentive Plan.
+
+The following table shows the Company’s achievement under the Incentive Plan:
+
+(in millions)	Revenue
+Non-GAAP
+Operating Income
+Threshold	$3,750	$800
+Target	$4,000	$912
+Maximum	$4,400	$1,137
+Achieved	$4,087	$995
+
+
+Long-Term Stock-Based Compensation
+Overview
+The Compensation and Talent Committee generally makes long-term stock-based compensation awards to executive officers on an annual basis. Long-term stock-based compensation awards are intended to align the interests of our executive officers with those of our stockholders and to reward our executive officers for increases in stockholder value over periods of time greater than one year. For fiscal year 2025, the Compensation and Talent Committee made an annual stock-based compensation award on November 5, 2024 to each of the Named Executive Officer as of that date, at a regularly scheduled Compensation and Talent Committee meeting.
+
+For information about the long-term stock based compensation awards granted to Mr. Brace and Mr. Carter in fiscal year 2025, see “Compensation Approach for Our Chief Executive Officer” and “Compensation Approach for Our Chief Financial Officer”, respectively.
+
+Fiscal Year 2025 Stock-Based Compensation Awards
+In making annual stock-based compensation awards to executive officers for fiscal year 2025, the Compensation and Talent Committee first reviewed the Comparator Group grant data by executive position. The Compensation and Talent Committee used that data to inform its determination of a target dollar value for the long-term stock-based award for each executive officer, as set forth in the table below, targeting awards for fiscal year 2025 that were competitive within the Comparator Group. Each executive officer was granted a PSA and an RSU award equivalent to 60% and 40%, respectively, of the dollar value of the executive’s fiscal year 2025 stock-based award, calculating the number of shares subject to each award using the fair market value of the Company’s common stock on the date of grant of such award and an assumption that the Company would achieve the “target” level of performance required to earn the PSA. The Compensation and Talent Committee’s rationale for awarding PSAs is to further align the executive’s interests with those of our stockholders by using equity awards that will vest only if the Company achieves pre-established performance goals, and we believe the Compensation and Talent Committee’s decision to award a portion of the PSAs subject to metrics measured over a multi-year performance period more closely aligns the executive’s interests with those of our stockholders. Each RSU award granted to executive officers in fiscal year 2025 vests over four years at a rate of twenty-five percent (25%) per year commencing one year from the grant date and thereafter on each subsequent anniversary of the grant date for the following three years, provided the executive officer remains employed by the Company through each such vesting date. The long-term incentive awards granted in fiscal year 2025 for Mr. Brace and Mr. Carter are described above in “Compensation Approach for Our Chief Executive Officer” and “Compensation Approach for Our Chief Financial Officer”.
+
+18
+
+
+Name
+Value of FY25
+Stock-Based Award (1)
+Number of Shares Subject
+to PSAs, at Target (2)
+Number of Shares
+Subject to RSUs (2)
+Liam K. Griffin	$10,000,000	67,735(3)	45,156(4)
+Kris Sennesael	$5,400,000	36,577	24,384
+Reza Kasnavi	$4,200,000	28,448	18,966
+Robert J. Terry	$3,000,000	20,320	13,547
+Karilee Durham	$2,600,000	17,611	11,740
+
+________________________
+(1) The grant date fair values of these stock-based awards as disclosed further below in the “Summary Compensation Table” and the “Grants of Plan-Based Awards Table” differ from the values stated above due to the grant date fair value of the PSAs being computed using a Monte Carlo simulation to value the portion of the award related to TSR percentile ranking, in accordance with the provisions of FASB ASC Topic 718—Compensation—Stock Compensation (“ASC 718”).
+(2) Reflects the dollar value of the award, divided by $88.58 per share, which was the closing price of the Company’s common stock on the Nasdaq Global Select Market on November 5, 2024.
+(3) Mr. Griffin’s awards were forfeited on May 16, 2025 in connection with his termination of employment.
+(4) The terms of this award provided that in the event of a termination of employment of Mr. Griffin by the Company without cause or by Mr. Griffin for good reason, or by reason of Mr. Griffin’s death or disability (“cause” and “good reason”, in the Second Amended and Restated Change in Control / Severance Agreement, dated May 10, 2023, by and between Mr. Griffin and the Company (the “Griffin Agreement”)), and subject to Sections 6, 8, 12.3 and 12.4 of the Griffin Agreement, the award would become vested solely with respect to the number of Pro Rata Shares (as defined below), reduced by the number of shares that have previously vested. “Pro Rata Shares” means the total number of shares subject to the award multiplied by a fraction equal to (i) the greater of 180 days or the number of calendar days between November 5, 2024 and the date of the termination of service, divided by (ii) the total number of calendar days between November 5, 2024 and November 5, 2028. Mr. Griffin ceased to be employed by the Company on May 16, 2025 at which time his award was vested with respect to 5,934 shares.
+
+After setting award levels by position and evaluating our business needs for the attraction and retention of executives and employees as well as internal and external circumstances impacting the Company and its employees, the Compensation and Talent Committee also reviewed the Comparator Group data to set the aggregate number of shares of the Company’s common stock that would be made available for annual equity awards to eligible non-executive employees of the Company, as a percentage of the total number of the outstanding shares of the Company’s common stock.
+
+FY25 PSAs
+The PSAs granted on November 5, 2024 (the “November 2025 PSAs”) and the FY25 Brace PSA (together with the November 2025 PSAs, the “FY25 PSAs”), have both “performance” and “continued employment” conditions that must be met in order for the executive to receive shares underlying the award.
+
+19
+
+
+The “performance” condition of the FY25 PSAs compares the Company’s performance under three distinct metrics during the applicable performance period against a range of pre-established targets, as follows:
+
+Percentage of Aggregate Target Level Shares	Performance Period	Vesting
+Target Level Shares with Respect to Emerging Revenue Growth Metric (1)	25%
+Fiscal Year
+2025
+100% at the End of Year Two
+Target Level Shares with Respect to EBITDA Margin Percentile Ranking Metric (2)	25%
+Fiscal Years
+2025–2027
+100% at the End of Year Three
+Target Level Shares with Respect to TSR Percentile Ranking Metric (3)	50%	Fiscal Years
+2025–2027	100% at the End of Year Three
+
+________________________
+(1) The emerging revenue growth metric measures the Company’s year-over-year revenue growth in certain key product categories, each of which represents an identified longer-term growth market for the Company.
+(2) The EBITDA margin percentile ranking metric measures the Company’s EBITDA margin achieved relative to the companies in our FY25 Peer Group during a three-year performance period comprising the Company’s fiscal years 2025, 2026 and 2027. For purposes of the EBITDA margin percentile ranking metric, EBITDA margin is calculated by dividing EBITDA by revenue for the applicable period, where EBITDA is defined as non-GAAP operating income, plus depreciation and amortization, for the applicable period. With respect to the Company and each FY25 Peer Group company, EBITDA and revenue are calculated based on publicly reported financial information for the applicable period (which for the FY25 Peer Group companies consists of the twelve-quarter period that ends closest to, but not later than, October 3, 2027).2 When calculating the Company’s EBITDA margin, the impact of any acquisition or disposition occurring within the performance period is excluded if the revenue attributable to such acquisition or disposition exceeds $50 million during such period.
+(3) The TSR percentile ranking metric measures the Company’s percentile ranking achieved with respect to its peer group. The peer group for purposes of the TSR percentile ranking metric includes each of the companies in the S&P 500 Index during the performance period but excludes any such company that during the three-year performance period is acquired by or merged with (or enters into an agreement to be acquired by or merged with) another entity. For purposes of the PSA award, TSR for the Company and for each company in the peer group is calculated using a starting price and ending price, which consist of the average of the closing prices for each trading day during the sixty (60) consecutive calendar days ending on, and including, the last trading day before the measurement period begins and the last trading day of the measurement period, respectively, assuming dividend reinvestment and adjusting for stock splits, as applicable.
+
+The semiconductor industry generally and, in particular, many of the markets into which the Company sells its connectivity products, are characterized by constant and rapid technological change, continuous product evolution, and short product life cycles, including annual product refreshes in some cases. Recognizing that a significant driver of long-term growth is our ability to identify and execute on emerging revenue growth opportunities, the Compensation and Talent Committee retained emerging revenue growth as a one-year metric (representing 25% of the target value of the PSAs) to incentivize our management team on specific emerging product lines that had higher growth potential for that year and were intended to drive long-term value creation.
+
+For 25% of the target value under the FY25 PSAs, the Compensation and Talent Committee utilized a three-year EBITDA margin percentile ranking metric that measures performance relative to the FY25 Peer Group. To incentivize above-median performance, the Compensation and Talent Committee set the target percentile for the EBITDA margin percentile ranking metric at the 55th percentile of our FY25 Peer Group. Following stockholder feedback received after the 2024 Annual Meeting of Stockholders, the Compensation and Talent Committee
+2 When calculating the EBITDA margin percentile ranking, the performance of a company in the FY25 Peer Group will be included if during the performance period such company in the FY25 Peer Group publicly reports quarterly financial results for at least ten consecutive quarters out of the twelve applicable quarters.
+20
+
+
+determined that shares earned pursuant to the EBITDA margin percentile ranking metric for awards granted to Named Executive Officers for fiscal year 2025 would be subject to a three-year performance period and would not vest until the three-year anniversary of the grant date, which reflected an increase in the performance period from two years to three years compared to the EBITDA margin percentile ranking metric for PSAs granted in fiscal year 2024.
+
+As in prior years, the remaining half of the target value under the FY25 PSAs was based on a three-year TSR percentile ranking.
+
+The specific pre-established performance goals for the FY25 PSAs under the emerging revenue growth, EBITDA margin percentile ranking and TSR percentile ranking metrics are as follows:
+
+Company Metric	Threshold	Target	Maximum
+1-year Emerging Revenue Growth (%)	10.0%	15.0%	20.0%
+3-year EBITDA Margin Percentile Ranking	25th	55th	75th
+3-year TSR Percentile Ranking	25th	55th	90th
+
+
+As with the Incentive Plan, the pre-established targets under the FY25 PSAs were established by the Compensation and Talent Committee after reviewing the Company’s historical operating results and growth rates as well as the Company’s expected future results relative to peers and were designed to require significant effort and operational success on the part of our executives and the Company:
+•Emerging Revenue Growth Metric: The target level was set at 15.0%, representing above-market annual growth, the maximum level was set at 20.0%, which the Compensation and Talent Committee believed represented outstanding performance that would be difficult to achieve, and the threshold level was set at 10.0% as a result of continued market uncertainties. The threshold, target and maximum levels vary year to year as a result of the composition of what, as part of the Company’s product portfolio, comprises emerging revenue. For fiscal year 2025, emerging revenue growth was based on driving growth in the following key product categories: automotive, WiFi growth markets (i.e. WiFi 7/8), strategic bulk acoustic wave (“BAW”) expansion (i.e., BAW-enabled products excluding products sold to our largest customer), audio solutions, and mixed-signal solutions business organization (excluding automotive to avoid duplication).
+•EBITDA Margin Percentile Ranking Metric: The Compensation and Talent Committee set the target percentile at the 55th percentile of the FY25 Peer Group in order to further incentivize above-median performance.
+•TSR Percentile Ranking Metric: Consistent with the prior year’s award, the Compensation and Talent Committee set the target percentile at the 55th percentile of the applicable peer group in order to further incentivize above-median performance.
+
+The number of shares issuable under the FY25 PSAs corresponds to the level of achievement of the performance goals, as follows (subject to linear interpolation for amounts between “threshold” and “target” or “target” and “maximum”):
+
+Performance Achieved
+Threshold	Target	Maximum
+% of Target Level Shares Earned with Respect to Emerging Revenue Growth Metric	50%	100%	200%
+% of Target Level Shares Earned with Respect to EBITDA Margin Percentile Ranking Metric	50%	100%	200%
+% of Target Level Shares Earned with Respect to TSR Percentile Ranking Metric	50%	100%	300%
+
+21
+
+
+
+The “continued employment” condition of the FY25 PSAs provides that, to the extent that the performance goals are met, the shares earned under such metrics would vest as follows (provided, in each case, that the executive remains employed by the Company through each such vesting date):
+
+Anniversary of Grant Date (1)
+Two Year	Three Year
+% of Shares Earned with Respect to Emerging Revenue Growth Metric	100%
+% of Shares Earned with Respect to EBITDA Margin Percentile Ranking Metric		100%
+% of Shares Earned with Respect to TSR Percentile Ranking Metric		100%
+
+________________________
+(1) In the event of termination by reason of death or permanent disability, the holder of an FY25 PSA (or the holder’s estate) would receive any earned but unissued shares that would have been issuable thereunder during the remaining term of the award.
+
+During fiscal year 2024, the base period against which fiscal year 2025 emerging revenue performance was measured, the Company achieved revenue in the specified key product categories of $596 million.
+
+During fiscal year 2025, the Company achieved revenue in the specified key product categories of $740 million, representing emerging revenue growth of 24%, which was above the “maximum” level of performance. This resulted in the Company achieving 200% of the target level of shares for such metric. The shares earned under this metric will be issued in November 2026, provided that the Named Executive Officer meets the continued employment condition.
+
+Outstanding PSAs at the End of Fiscal Year 2025
+As summarized in the table below of the annual PSA grants made to Named Executive Officers since fiscal year 2023, achievement of the EBITDA margin percentile ranking metric and TSR percentile ranking metric under the FY25 PSAs, each of which is subject to a three-year performance period, will be determined following the conclusion of the Company’s fiscal year ending October 1, 2027 (“fiscal year 2027”), and achievement of the TSR percentile ranking metric under the FY24 PSAs, which is subject to a three-year performance period, will be determined following the conclusion of fiscal year 2026. During the three-year performance period under the fiscal year 2023 PSAs comprising the Company’s fiscal years 2023, 2024, and 2025, the Company realized a TSR of -20% resulting in its ranking in the 15th percentile against the applicable peer group. As a result of failing to achieve the
+22
+
+
+threshold TSR percentile ranking metric, no shares were earned by the Named Executive Officers with respect to such metric, and all PSAs with respect to such metric were cancelled.
+
+PSA Fiscal Year	Grant Date	Metric	Performance Period
+Achieved
+(% of Target)
+FY23	11/8/2022	Emerging Revenue Growth	FY23	200%
+2-year EBITDA Margin Percentile Ranking	FY23–FY24	125%
+3-year TSR Percentile Ranking	FY23–FY25	0%
+FY24	11/7/2023	Emerging Revenue Growth	FY24	61%
+2-year EBITDA Margin Percentile Ranking	FY24–FY25	67%
+3-year TSR Percentile Ranking	FY24–FY26	Perf. Period in Progress (1)
+FY25	11/5/2024	Emerging Revenue Growth	FY25	200%
+3-year EBITDA Margin Percentile Ranking	FY25–FY27	Perf. Period in Progress (2)
+3-year TSR Percentile Ranking	FY25–FY27	Perf. Period in Progress (3)
+
+________________________
+(1) As of January 26, 2026, performance under this metric during the applicable performance period was below the “threshold” level of performance.
+(2) As of January 26, 2026, performance under this metric during the applicable performance period was below the “threshold” level of performance.
+(3) As of January 26, 2026, performance under this metric during the applicable performance period was below the “threshold” level of performance.
+
+Other Compensation and Benefits
+We provide other benefits to our executive officers that are intended to be part of a competitive overall compensation program and are not tied to any company performance criteria. Consistent with our objective of having compensation programs that are considered fair to our employees, executive officers are eligible to participate in the Company’s medical, dental, vision, life, and disability insurance plans, as well as the Company’s 401(k) Savings and Retirement Plan and Employee Stock Purchase Plan, under the same terms as such benefits are offered to other benefits-eligible employees. We do not provide executive officers with any enhanced retirement benefits (i.e., executive officers are subject to the same limits on contributions as other employees, as we do not offer any supplemental executive retirement plan or other similar non-qualified deferred compensation plan), and they are eligible for 401(k) company-match contributions under the same terms as other employees.
+
+We offered executives the opportunity to participate in a reimbursement program for fiscal year 2025 providing up to an aggregate of $20,000 to each executive for the purchase of personal financial planning services, estate planning services, personal tax planning and preparation services, and/or an executive physical. No tax gross-up was provided for such reimbursements. In fiscal year 2025, each of the Named Executive Officers, other than Mr. Kasnavi, received reimbursement in connection with such services.
+
+In connection with his offer of employment with the Company, Mr. Brace is entitled to reimbursement for certain relocation costs, the cost of commercial airline flights for commuting to the Company’s headquarters, temporary apartment costs, and certain tax gross-ups relating to the foregoing in addition to the other benefits discussed above.
+Severance and Change-in-Control Benefits
+None of our executive officers, including the Named Executive Officers, has an employment agreement that provides a specific term of employment with the Company. Accordingly, the employment of any such employee
+23
+
+
+may be terminated at any time. We do provide certain benefits to our Named Executive Officers upon certain qualifying terminations of employment and in connection with terminations of employment under certain circumstances following a change in control. During fiscal year 2025, such benefits were afforded to Named Executive Officers pursuant to certain change in control / severance agreements. In November 2025, following a review of market practice and in consultation with Aon, the Compensation and Talent Committee adopted a Severance and Change in Control Benefits Plan (the “Severance Plan”), which, with their consent, replaced the CIC Agreements (as defined below) for all of our Named Executive Officers employed as of November 2025, except for the Chief Executive Officer. A description of the material terms of our severance and change-in-control arrangements with the Named Executive Officers can be found immediately below and further below under “Potential Payments Upon Termination or Change in Control.”
+
+The Compensation and Talent Committee believes that severance protections can play a valuable role in recruiting and retaining superior talent. Further, the Compensation and Talent Committee believes that severance and other termination benefits are an effective way to offer executives financial security to incent them to forego an opportunity with another company.
+
+Pursuant to the CIC Agreements, outside of the change-in-control context, each Named Executive Officer was entitled to severance benefits if his or her employment was involuntarily terminated by the Company without cause and, in the case of Mr. Brace, who remains subject to the Brace Agreement (as defined below), and Mr. Griffin, who ceased serving as Chief Executive Officer and President on February 17, 2025, if they terminate their own employment for good reason (as defined in the Brace Agreement and the Griffin Agreement, respectively). The level of each Named Executive Officer’s cash severance or other termination benefit was generally tied to his or her annual base salary and short-term incentive amounts.
+
+Additionally, pursuant to the CIC Agreements, each Named Executive Officer was eligible to receive enhanced severance benefits and accelerated vesting of equity awards if his or her employment was terminated under certain circumstances in connection with a change in control of the Company. The Compensation and Talent Committee believes these enhanced severance benefits and accelerated vesting were appropriate because the occurrence, or potential occurrence, of a change-in-control transaction would likely create uncertainty regarding the continued employment of executive officers that typically occurs in a change-in-control context, and such severance benefits and accelerated vesting encourage the Named Executive Officers to remain employed with the Company through the change-in-control process and to focus on enhancing stockholder value both before and during the process. The vesting protection helped assure the Named Executive Officers that they would not lose the expected value of their equity awards because of a change in control of the Company.
+
+For fiscal year 2026, all of the Named Executive Officers employed by the Company as of November 2025, besides the Chief Executive Officer, are afforded severance and change-in-control benefits pursuant to the Severance Plan and an individual participation agreement under the Severance Plan. The current Chief Executive Officer, Mr. Brace, continues to be afforded severance and change-in-control benefits pursuant to his change in control / severance agreement. These benefits are discussed in the prior two paragraphs and are described in detail further below under “Potential Payments Upon Termination or Change in Control.”
+
+In fiscal year 2024, the Company adopted a policy providing for stockholder ratification of any new agreements or arrangements that provide for cash severance benefits payable to Named Executive Officers that exceed 2.99 times the sum of the Named Executive Officer’s base salary and target bonus (as each such term is defined in the policy).
+Executive Officer Stock Ownership Requirements
+We have adopted executive officer stock ownership guidelines with the objective of more closely aligning the interests of our executive officers with those of our stockholders. Under the executive officer stock ownership
+24
+
+
+guidelines, our Named Executive Officers are each required to hold the lower of (a) the number of shares with a fair market value equal to the applicable multiple of such executive’s current base salary, or (b) the applicable number of shares, each as set forth in the table below. Common stock owned outright by the Named Executive Officer (or by his or her spouse or minor children), common stock held in trust for the benefit of the Named Executive Officer (or his or her spouse or minor children), or restricted stock or RSUs granted pursuant to the equity compensation plans of the Company for which restrictions have lapsed, count towards the requirement. Unexercised options, whether or not vested, and restricted stock and RSUs still subject to risk of forfeiture, as well as any unissued performance shares, do not count towards the requirement. All of our current Named Executive Officers are in compliance with the executive officer stock ownership guidelines as of the date hereof, except for Mr. Brace and Mr. Carter, who are not required to comply with the guidelines until the fifth anniversary of their respective appointments as an executive officer of the Company.
+
+Multiple of
+Annual Base Salary (1)
+Shares
+Chief Executive Officer	6	94,200
+Chief Financial Officer	2.5	21,400
+Executive Vice President, Chief Operations and Technology Officer	2.5	25,000
+Senior Vice President and General Counsel	2.5	21,600
+Senior Vice President, Human Resources	2.5	19,600
+
+________________________
+(1) For purposes of the executive officer stock ownership guidelines, the fair market value of the Company’s common stock is the average closing price per share of the Company’s common stock as reported on the Nasdaq Global Select Market (or if the common stock is not then traded on such market, such other market on which the common stock is traded) for the twelve (12) month period ending with the determination date.
+Executive Compensation Recoupment Policies
+In March 2022, the Company adopted an executive compensation recoupment policy (the “2022 Policy”) that applies to both cash and equity incentive compensation for executive officers. Under the 2022 Policy, if we are required to prepare an accounting restatement for one or more periods due to the material noncompliance of the Company with any financial reporting requirement under the U.S. federal securities laws, the Board or a committee of independent directors authorized by the Board will investigate the circumstances to determine whether an act or omission of a current or former executive officer, involving fraud or intentional misconduct, contributed to the circumstances resulting in the restatement. Following the investigation, we may require repayment of certain incentive-based compensation received by the executive officer in the three-year period preceding restatement.
+
+In November 2023, the Company adopted a new executive compensation recovery policy (the “2023 Policy”) for purposes of complying with Section 10D of the Exchange Act and Nasdaq listing standards. The 2023 Policy provides that, in the event the Company is required to prepare an accounting restatement on or after October 2, 2023 (the “Effective Date”) due to the material noncompliance of the Company with any financial reporting requirement under the U.S. federal securities laws, the Company will act to recover the amount of incentive-based compensation received on or after the Effective Date, by its current and former Section 16 officers, as applicable, in excess of the amount of incentive-based compensation that would have been received had it been determined based on the restated amount, subject to limited exceptions. In the event that an accounting restatement is not covered by the 2023 Policy but is covered by the 2022 Policy, the 2022 Policy will apply. In the event that an accounting restatement could be covered by both the 2022 Policy and 2023 Policy, only the 2023 Policy will apply.
+25
+
+
+Prohibition on Hedging and Certain Other Transactions
+We prohibit our directors, officers, and employees (or any of their designees) from directly or indirectly engaging in the following transactions with respect to securities of the Company:
+•selling short, including short sales “against the box”;
+•buying or selling put or call options; or
+•purchasing financial instruments (including prepaid variable forward contracts, equity swaps, collars, and exchange funds), or otherwise engaging in transactions, that hedge or offset, or are designed to hedge or offset, any decrease in the market value of securities of the Company, whether through the use of traded securities, privately negotiated derivative securities, or synthetic financial instruments.
+
+In addition, we prohibit our directors, officers, and employees from purchasing Company securities on margin, borrowing against Company securities held in a margin account, or pledging Company securities as collateral for a loan.
+Compliance with Internal Revenue Code Section 162(m)
+For fiscal year 2025, the Company will be unable to deduct compensation in excess of $1 million paid to certain executive officers, as specified under Section 162(m) of the Internal Revenue Code (“IRC”). The Compensation and Talent Committee uses its judgment to authorize compensation payments that may be subject to the limit when the Compensation and Talent Committee believes such payments are appropriate and in the best interests of the Company and its stockholders.
+Policies and Practices Related to the Grant of Certain Equity Awards Close in Time to the Release of Material Nonpublic Information
+It is the Company’s practice to make stock-based compensation awards to executive officers in November of each year at a prescheduled Compensation and Talent Committee meeting, which may be close in time before or after the Company publicly announces financial results for the prior completed quarter or fiscal year or when the Company publicly provides an outlook for a future quarter or time period. During fiscal year 2025, the Company did not time the disclosure of material non-public information for the purpose of affecting the value of executive compensation, nor did it grant any stock options to any of its executive officers.
+26
+
+
+Compensation Tables for Named Executive Officers
+Summary Compensation Table
+The following table summarizes compensation earned by, or awarded or paid to, our Named Executive Officers for fiscal year 2025, fiscal year 2024, and fiscal year 2023.
+
+Name and Principal Position	Year
+Salary
+($)
+Stock
+Awards
+($)(1)
+Non-Equity
+Incentive Plan
+Compensation
+($)(2)
+All Other
+Compensation
+($)(3)
+Total
+($)
+Philip G. Brace (4)	2025	571,154	22,608,588	1,155,048	201,816(5)	24,536,606
+Chief Executive Officer	2024
+and President	2023
+Philip Carter (4)	2025	91,435	4,684,079	0	3,804	4,779,318
+Senior Vice President and	2024
+Chief Financial Officer	2023
+Reza Kasnavi	2025	685,386	4,452,408	773,934	17,360	5,929,088
+Executive Vice President,	2024	597,600	4,435,150	349,860	16,961	5,399,571
+Chief Operations and Technology Officer (6)	2023	574,100	4,377,587	370,013	35,936	5,357,636
+Robert J. Terry	2025	593,950	3,180,279	605,469	39,864	4,419,562
+Senior Vice President,	2024	559,800	3,659,046	327,703	34,457	4,581,006
+General Counsel and Secretary	2023	538,200	3,605,110	346,887	27,150	4,517,347
+Karilee A. Durham (4)	2025	537,193	2,756,209	548,544	40,131	3,882,077
+Senior Vice President,	2024
+Human Resources	2023
+Liam K. Griffin (7)	2025	745,675	10,416,730	0	13,554,636(8)	24,717,041
+Former Chairman, Chief	2024	1,175,002	15,523,244	1,370,289	27,992	18,096,527
+Executive Officer & President	2023	1,170,502	14,554,926	1,509,604	26,404	17,261,436
+Kris Sennesael (9)	2025	410,885	5,724,546	0	20,521	6,155,952
+Former Senior Vice President	2024	627,600	4,213,415	459,192	24,220	5,324,427
+and Chief Financial Officer	2023	604,200	4,142,435	486,606	20,921	5,254,162
+Robert A. Schriesheim (4)	2025	173,077	899,956	0	309,977(10)	1,383,010
+Former Interim	2024
+Chief Financial Officer	2023
+
+________________________
+(1) The amounts in the Stock Awards column represent the grant date fair values, computed in accordance with the provisions of FASB ASC Topic 718—Compensation—Stock Compensation (“ASC 718”), of PSAs and RSUs granted during the applicable fiscal year, without regard to estimated forfeiture rates. For fiscal years 2023, 2024, and 2025, assuming the highest level of performance achievement with respect to the PSAs, the grant date fair values of the Stock Awards would be as follows: Mr. Brace (FY25: $24,768,587), Mr. Carter (FY25: $4,684,079), Mr. Kasnavi (FY23: $5,550,558; FY24: $5,635,121; FY25: $5,712,370), Mr. Terry (FY23: $4,571,105; FY24: $4,649,065; FY25: $4,080,252), Ms. Durham (FY25: $3,536,200), Mr. Griffin (FY23: $18,454,902; FY24: $19,723,254; FY25: $13,601,016), Mr. Sennesael (FY22: $5,339,011; FY23: $5,252,414; FY24: $5,353,425; FY25: $7,344,542), and Mr. Schreisheim (FY25: $899,956). For a description of the assumptions used in calculating the fair value of equity awards in fiscal year 2025 under ASC 718, see Note 9 of the Company’s financial statements included in the Company’s Annual Report on Form 10-K filed with the SEC on November 7, 2025.
+(2) Reflects amounts paid to the Named Executive Officers pursuant to the Incentive Plan adopted by the Compensation and Talent Committee for each year indicated.
+27
+
+
+(3) “All Other Compensation” includes the Company’s contributions to the executive’s 401(k) Plan account, the cost of group term life insurance premiums, and financial planning benefits. For fiscal year 2025, it specifically includes $14,000 in Company contributions to the 401(k) Plan accounts of Messrs. Brace, Kasnavi, Terry, Durham and Griffin, $13,500 to Mr. Sennesael’s 401(k) Plan account and $3,555 to Mr. Carter’s 401(k) Plan account. It also includes financial planning benefits of $20,000, $8,350, $4,795 and $3,211 for Mr. Terry, Ms. Durham, Mr. Brace, and Mr. Sennesael, and a holiday reimbursement for Ms. Durham.
+(4) Mr. Brace joined the Company in fiscal year 2025 and was not a Named Executive Officer during fiscal years 2023 or 2024. Mr. Carter re-joined the Company in fiscal year 2025 and was not a Named Executive Officer during fiscal years 2023 and 2024, and pursuant to Instruction (4) to Item 402(a)(3) of Regulation S-K, information is provided herein as to all of his compensation for fiscal year 2025. Ms. Durham was not a Named Executive Officer for fiscal years 2023 or 2024. Mr. Schriesheim became an employee of the Company in fiscal year 2025 on an interim and partial-year basis and was not a Named Executive Officer during fiscal years 2023 or 2024.
+(5) The amount reported includes amounts referenced in footnote 3 above as well as $147,670 for relocation expenses, $21,320 for commuting expenses related to Mr. Brace’s air and associated travel to and from the Company’s headquarters in Orange County, California, and $10,102 in tax reimbursement payments on taxable expenses associated therewith. Reimbursement of Mr. Brace’s commuting and tax expenses were within the limits set for each and approved by the Company’s Compensation and Talent Committee.
+(6) In fiscal year 2025, Mr. Kasnavi served as Senior Vice President, Technology and Manufacturing, until March 15, 2025, on which date he was appointed Executive Vice President, Chief Operations and Technology Officer.
+(7) Mr. Griffin ceased serving as the Company’s Chairman on February 4, 2025 and as its Chief Executive Officer and President on February 17, 2025. Mr. Griffin’s employment with the Company ended on May 16, 2025.
+(8) The amount reported includes $6.1 million cash severance payment and $7.2 million in equity acceleration in connection with a termination without cause or resignation for good reason that is unrelated to a change in control as provided for in the Griffin Agreement.
+(9) Mr. Sennesael ceased serving as Chief Financial Officer of the Company effective May 9, 2025.
+(10) The amount reported includes $82,699 in director retainer fees and $225,043 from an annual equity grant to Mr. Schriesheim in his capacity as Director under an RSU award granted on May 14, 2025, under the Company’s 2008 Director Long-Term Incentive Plan. These amounts relate to Mr. Schriesheim’s non-employee director service prior to his appointment and following his departure as the Company’s Interim Chief Financial Officer from May 29, 2025 to September 7, 2025. These amounts also include $2,235 in imputed income for group term life insurance during his service as Interim Chief Financial Officer.
+28
+
+
+Grants of Plan-Based Awards Table
+The following table summarizes all grants of plan-based awards made to the Named Executive Officers in fiscal year 2025.
+
+Estimated Future Payouts Under
+Non-Equity Incentive Plan
+Awards (1)
+Estimated Future Payouts
+Under Equity Incentive Plan
+Awards (2)
+All Other
+Stock
+Awards:
+Number of
+Shares of
+Stock Or
+Units
+(#)(3)
+Grant
+Date Fair
+Value of
+Stock
+Awards ($)
+Name
+Grant
+Date
+Threshold
+($)
+Target
+($)
+Maximum
+($)
+Threshold
+(#)
+Target
+(#)
+Maximum
+(#)
+Philip G. Brace		720,000	1,440,000	2,880,000
+2/17/2025				32,762	65,524	163,810		3,726,022(4)
+2/17/2025						455,028		16,002,612(5)
+2/17/2025							43,682(3)	2,879,954(6)
+Philip Carter	9/8/2025				12,561	25,122	50,244		842,070(7)
+9/8/2025							39,666(3)	2,999,940(13)
+Reza Kasnavi		287,500	575,000	1,150,000
+11/5/2024				14,224	28,448	71,120		2,772,400(8)
+11/5/2024							18,966(3)	1,680,008(12)
+Robert J. Terry		234,000	468,000	936,000
+11/5/2024				10,160	20,320	50,800		1,980,286(8)
+11/5/2024							13,547(3)	1,199,993(12)
+Karilee A. Durham		212,000	424,000	848,000
+11/5/2024				8,805	17,611	44,027		1,716,271(8)
+11/5/2024							11,740(3)	1,039,929(12)
+Liam K. Griffin		940,000	1,880,000	3,760,000
+11/12/2024				33,867	67,735	169,337		6,486,343(9)
+11/12/2024							45,156(3)	3,930,378(10)
+Kris Sennesael		337,500	675,000	1,350,000
+11/5/2024				18,288	36,577	91,442		3,564,603(8)
+11/5/2024							24,384(3)	2,159,935(12)
+Robert A. Schriesheim	5/29/2025							12,949	899,956(11)
+
+________________________
+(1) The amounts shown represent the potential value of awards earned under the Incentive Plan. The amounts actually paid to the Named Executive Officers under the Incentive Plan are shown above in the “Summary Compensation Table” under “Non-Equity Incentive Plan Compensation.” For a more complete description of the Incentive Plan, please see description above under “Components of Compensation—Short-Term Incentives.”
+(2) The amounts shown represent shares potentially issuable pursuant to the November 2025 PSAs, as well as the FY25 Brace PSAs and the PSA awards to Mr. Griffin and Mr. Carter, which were made on November 12, 2024 and September 8, 2025, respectively. Except for the PSA grants made to Mr. Brace as “inducement grants” within the meaning of Nasdaq Listing Rule 5635(c)(4), each such grant was made under the Company’s Second Amended and Restated 2015 Long-Term Incentive Plan, as described above under “Components of Compensation—Long-Term Stock-Based Compensation.”
+(3) The amounts shown represent shares potentially issuable pursuant to RSU awards granted in fiscal year 2025 under the Company’s Second Amended and Restated 2015 Long-Term Incentive Plan, except for Mr. Brace,
+29
+
+
+whose amount reflects the FY25 Brace RSU granted to Mr. Brace as “inducement grants” within the meaning of Nasdaq Listing Rule 5635(c)(4). Each RSU award vests over four years at a rate of twenty-five percent (25%) per year commencing one year after the grant date and on each subsequent anniversary of the grant date for the following three years, provided the executive remains employed by the Company through each such vesting date, except for the FY25 Brace RSU, which vests at a rate of 25% per year on each anniversary of November 5, 2024 until it becomes fully vested on November 5, 2028, subject to Mr. Brace remaining employed by the Company through each such vesting date,.
+(4) Reflects the grant date fair value of the FY25 Brace PSA granted as an “inducement grant” within the meaning of Nasdaq Listing Rule 5635(c)(4), computed in accordance with the provisions of ASC 718, using (a) a Monte Carlo simulation (which weights the probability of multiple potential outcomes) to value the portion of the award related to TSR percentile ranking, and (b) a price of $65.93 per share, which was the closing sale price of the Company’s common stock on the Nasdaq Global Select Market on February 17, 2025, to value the portion of the award related to emerging revenue growth and EBITDA margin percentile ranking, assuming performance at the “target” level. For a description of the assumptions used in calculating the fair value of equity awards granted in fiscal year 2025 under ASC 718, see Note 9 of the Company’s financial statements included in the Company’s Annual Report on Form 10-K filed with the SEC on November 7, 2025.
+(5) Reflects the grant date fair value of the Brace New Hire PSA granted as an “inducement grant” within the meaning of Nasdaq Listing Rule 5635(c)(4), computed in accordance with the provisions of ASC 718, using a Monte Carlo simulation (which weights the probability of multiple potential outcomes) to value the portion of the award related to potential hurdle achievement. For a description of the assumptions used in calculating the fair value of equity awards granted in fiscal year 2025 under ASC 718, see Note 9 of the Company’s financial statements included in the Company’s Annual Report on Form 10-K filed with the SEC on November 7, 2025.
+(6) Reflects the grant date fair value of the FY25 Brace RSU granted as an “inducement grant” within the meaning of Nasdaq Listing Rule 5635(c)(4) on February 17, 2025, computed in accordance with the provisions of ASC 718 using a price of $65.93 per share, which was the closing price of the Company’s common stock on the Nasdaq Global Select Market on February 17, 2025.
+(7) Reflects the grant date fair value of the Carter New Hire PSA granted on September 8, 2025, computed in accordance with the provisions of ASC 718, using a Monte Carlo simulation (which weights the probability of multiple potential outcomes) to value the portion of the award related to TSR performance. For a description of the assumptions used in calculating the fair value of equity awards granted in fiscal year 2025 under ASC 718, see Note 9 of the Company’s financial statements included in the Company’s Annual Report on Form 10-K filed with the SEC on November 7, 2025.
+(8) Reflects the grant date fair value of the FY25 PSAs, computed in accordance with the provisions of ASC 718, using (a) a Monte Carlo simulation (which weights the probability of multiple potential outcomes) to value the portion of the award related to TSR percentile ranking, and (b) a price of $88.58 per share, which was the closing sale price of the Company’s common stock on the Nasdaq Global Select Market on November 5, 2024, to value the portion of the award related to emerging revenue growth and EBITDA margin percentile ranking, assuming performance at the “target” level. For a description of the assumptions used in calculating the fair value of equity awards granted in fiscal year 2025 under ASC 718, see Note 9 of the Company’s financial statements included in the Company’s Annual Report on Form 10-K filed with the SEC on November 7, 2025.
+(9) Reflects the grant date fair value of the FY25 PSAs, computed in accordance with the provisions of ASC 718, using (a) a Monte Carlo simulation (which weights the probability of multiple potential outcomes) to value the portion of the award related to TSR percentile ranking, and (b) a price of $87.04 per share, which was the closing sale price of the Company’s common stock on the Nasdaq Global Select Market on November 12, 2024, to value the portion of the award related to emerging revenue growth and EBITDA margin percentile ranking, assuming performance at the “target” level. For a description of the assumptions used in calculating the fair value of equity awards granted in fiscal year 2025 under ASC 718, see Note 9 of the Company’s financial statements included in the Company’s Annual Report on Form 10-K filed with the SEC on November 7, 2025.
+(10) Reflects the grant date fair value of the RSUs granted on November 12, 2024, computed in accordance with the provisions of ASC 718 using a price of $87.04 per share, which was the closing price of the Company’s common stock on the Nasdaq Global Select Market on November 12, 2024.
+30
+
+
+(11) Reflects the grant date fair value of the RSUs granted on May 29, 2025, computed in accordance with the provisions of ASC 718 using a price of $69.50 per share, which was the closing price of the Company’s common stock on the Nasdaq Global Select Market on May 29, 2025.
+(12) Reflects the grant date fair value of the RSUs granted on November 5, 2024, computed in accordance with the provisions of ASC 718 using a price of $88.58 per share, which was the closing price of the Company’s common stock on the Nasdaq Global Select Market on November 5, 2024.
+(13) Reflects the grant date fair value of the RSUs granted on September 8, 2025, computed in accordance with the provisions of ASC 718 using a price of $75.63 per share, which was the closing price of the Company’s common stock on the Nasdaq Global Select Market on September 8, 2025.
+Outstanding Equity Awards at Fiscal Year End Table
+The following table summarizes the unvested stock awards held by the Named Executive Officers as of the end of fiscal year 2025. None of our Named Executive Officers held stock options as of the end of fiscal year 2025.
+
+Stock Awards
+Name
+Number
+of Shares
+or Units
+of Stock
+that
+Have
+Not
+Vested
+(#)
+Market
+Value of
+Shares
+or Units
+of Stock
+that
+Have Not
+Vested
+($)(1)
+Equity
+Incentive
+Plan
+Awards:
+Number
+of Unearned
+Shares,
+Units or
+other
+Rights
+that Have
+Not Vested
+(#)
+Equity
+Incentive
+Plan
+Awards:
+Market or
+Payout
+Value of
+Unearned
+Shares,
+Units or
+other Rights
+that Have
+Not Vested
+($)(1)
+Philip G. Brace	43,682(2)	3,367,882	32,762(4)	2,525,950
+32,762(3)	2,525,950	91,006(5)	7,016,563
+Philip Carter	39,666(6)	3,058,249	12,561(7)	968,453
+Reza Kasnavi	2,439(8)	188,047	6,615(14)	510,017
+8,820(9)	680,022	6,714(15)	517,649
+13,428(10)	1,035,299	14,224(16)	1,096,670
+18,966(11)	1,462,279
+8,581(12)	661,595
+14,224(13)	1,096,670
+Robert J. Terry	2,008(8)	154,817	5,447(14)	419,964
+7,263(9)	559,977	5,539(15)	427,057
+11,078(10)	854,114	10,160(16)	783,336
+13,547(11)	1,044,474
+7,079(12)	545,791
+10,160(13)	783,336
+Karilee A. Durham	1,362(8)	105,010	3,383(14)	260,829
+4,511(9)	347,798	3,441(15)	265,301
+6,882(10)	530,602	8,805(16)	678,866
+11,740(11)	905,154
+4,396(12)	338,932
+8,806(13)	678,943
+Liam K. Griffin	15,782(12)	1,216,792	21,994(14)	1,695,737
+23,500(15)	1,811,850
+Kris Sennesael (17)	0	0	0	0
+Robert A. Schriesheim	3,664(18)	282,494
+12,949(19)	998,368
+
+________________________
+(1) Reflects a price of $77.10 per share, which was the closing sale price of the Company’s common stock on the Nasdaq Global Select Market on October 3, 2025.
+31
+
+
+(2) Represents shares issuable under the FY25 Brace RSU granted on February 17, 2025. The RSU award vests at a rate of 25% per year on each anniversary of November 5, 2024 until it becomes fully vested on November 5, 2028.
+(3) Represents shares issuable under the FY25 Brace PSA (awarded on February 17, 2025, as described above under “Compensation Approach for our Chief Executive Officer”) with respect to the emerging revenue growth metric measured over a one-year performance period consisting of the Company’s fiscal year 2025, assuming achievement at the “maximum” level of performance, one hundred percent (100%) of which will be issued on November 5, 2026, provided Mr. Brace remains employed by the Company through such vesting date.
+(4) Represents shares issuable under the Brace FY25 PSAs (awarded on February 17, 2025, as described above under “Compensation Approach for our Chief Executive Officer”) with respect to the TSR percentile ranking metric, assuming achievement at the “threshold” level of performance. This portion of the Brace FY25 PSAs, which is subject to a three-year performance period, will be issued on November 5, 2027, to the extent earned and provided that Mr. Brace meets the continued employment condition. Also represents shares issuable under the Brace FY25 PSAs with respect to the EBITDA margin percentile ranking metric measured over a three-year performance period consisting of the Company’s fiscal years 2025, 2026 and 2027, assuming achievement at the “target” level of performance. This portion of the Brace FY25 PSAs will be issued on November 5, 2027, to the extent earned and provided that Mr. Brace meets the continued employment condition.
+(5) Represents shares issuable under the Brace New Hire PSA (awarded on February 17, 2025, as described above under “Compensation Approach for our Chief Executive Officer”) with respect to the hurdles, assuming achievement of the first share price hurdle.
+(6) Represents shares issuable under the Carter New Hire RSU (awarded on September 8, 2025, as described above under “Compensation Approach for our Chief Financial Officer”), under the Company’s Second Amended and Restated 2015 Long-Term Incentive Plan. The RSU award vests at a rate of 25% per year on each anniversary of the grant date through September 8, 2029.
+(7) Represents shares issuable under the Carter New Hire PSA (awarded on September 8, 2025, as described above under “Compensation Approach for our Chief Financial Officer”) with respect to the three-year TSR performance, assuming achievement at the “threshold” level of performance.
+(8) Represents shares issuable under an RSU award granted on November 10, 2021, under the Company’s Second Amended and Restated 2015 Long-Term Incentive Plan. The RSU award vests at a rate of 25% per year on each anniversary of the grant date through November 10, 2025.
+(9) Represents shares issuable under an RSU award granted on November 8, 2022, under the Company’s Second Amended and Restated 2015 Long-Term Incentive Plan. The RSU award vests at a rate of 25% per year on each anniversary of the grant date through November 8, 2026.
+(10) Represents shares issuable under an RSU award granted on November 7, 2023, under the Company’s Second Amended and Restated 2015 Long-Term Incentive Plan. The RSU award vests at a rate of 25% per year on each anniversary of the grant date through November 7, 2027.
+(11) Represents shares issuable under an RSU award granted on November 5, 2024, under the Company’s Second Amended and Restated 2015 Long-Term Incentive Plan. The RSU award vests at a rate of 25% per year on each anniversary of the grant date through November 5, 2028.
+(12) Represents shares issuable under the fiscal year 2024 PSAs (“FY24 PSAs”) (awarded on November 7, 2023) with respect to the emerging revenue growth metric measured over a one-year performance period consisting of the Company’s fiscal year 2024, assuming achievement at 61% of the “target” level of performance, one hundred percent (100%) of which were issued on November 7, 2025. Also represents shares issuable under the FY24 PSAs with respect to the EBITDA margin percentile ranking metric measured over a two-year performance period consisting of the Company’s fiscal years 2024 and 2025, assuming achievement with respect to such metric of 67% of the target level of performance, one hundred percent (100%) of which were issued on November 7, 2025.
+(13) Represents shares issuable under the FY25 PSAs (awarded on November 5, 2024, as described above under “Components of Compensation—Long-Term Stock-Based Compensation”) with respect to the emerging revenue growth metric measured over a one-year performance period consisting of the Company’s fiscal year 2025, assuming achievement at the “maximum” level of performance. One hundred percent (100%) of the shares to be
+32
+
+
+earned under the FY25 PSAs with respect to this metric will be issued on November 5, 2026, to the extent earned and provided that the executive meets the continued employment condition.
+(14) Represents shares issuable under the fiscal year 2023 PSAs (the “FY23 PSAs”) with respect to the TSR percentile ranking metric, assuming achievement at the “threshold” level of performance. This portion of the FY23 PSAs, which was subject to a three-year performance period, would have been issued on November 8, 2025, had it been achieved.
+(15) Represents shares issuable under the FY24 PSAs with respect to the TSR percentile ranking metric, assuming achievement at the “threshold” level of performance. This portion of the FY24 PSAs, which is subject to a three-year performance period, will be issued on November 7, 2026, to the extent earned and provided that the executive meets the continued employment condition.
+(16) Represents shares issuable under the FY25 PSAs (awarded on November 5, 2024, as described above under “Components of Compensation—Long-Term Stock-Based Compensation”) with respect to the TSR percentile ranking metric, assuming achievement at the “threshold” level of performance. This portion of the FY25 PSAs, which is subject to a three-year performance period, will be issued on November 5, 2027, to the extent earned and provided that the executive meets the continued employment condition. Also represents shares issuable under the FY25 PSAs with respect to the EBITDA margin percentile ranking metric measured over a three-year performance period consisting of the Company’s fiscal years 2025, 2026 and 2027, assuming achievement at the “target” level of performance. This portion of the FY24 PSAs will be issued on November 7, 2025, to the extent earned and provided that the executive meets the continued employment condition.
+(17) Mr. Sennesael ceased serving as Chief Financial Officer of the Company effective May 9, 2025, and all unvested shares were forfeited.
+(18) Represents shares issuable to Mr. Schriesheim in his capacity as a non-employee director under an RSU award granted on May 14, 2025, pursuant to the Company’s Second Amended and Restated 2008 Director Long-Term Incentive Plan. The RSU award vests on May 14, 2026, which is the anniversary of the grant date.
+(19) Represents shares issuable to Mr. Schriesheim in his capacity as Interim Chief Financial Officer under an RSU award granted on May 29, 2025, pursuant to the Company’s Second Amended and Restated 2015 Long-Term Incentive Plan. The RSU award vests on the second anniversary of the grant date and based on his length of service as Interim Chief Financial Officer, he is eligible to receive 12,949 shares (50% of the shares granted) on May 29, 2027.
+Option Exercises and Stock Vested Table
+The following table summarizes the Named Executive Officers’ option exercises and stock award vesting during fiscal year 2025.
+
+Stock Awards
+Name
+Number of Shares
+Acquired on Vesting
+(#)
+Value Realized
+on Vesting
+($)(1)
+Philip G. Brace	0	0
+Philip Carter	3,382(2)	302,911
+Reza Kasnavi	35,117	3,134,447
+Robert J. Terry	28,915	2,580,901
+Karilee A. Durham	18,229	1,626,743
+Liam K. Griffin	211,873	17,684,044
+Kris Sennesael	33,645	3,002,585
+Robert A. Schriesheim	2,272(3)	164,129
+
+________________________
+(1) The value realized upon vesting is determined by multiplying (a) the number of shares underlying the stock awards that vested, by (b) the closing price of the Company’s common stock on the Nasdaq Global Select Market on the applicable vesting date.
+33
+
+
+(2) Reflects shares Mr. Carter received prior to the end of his employment with the Company on November 15, 2024 and subsequent return to the Company on September 8, 2025. At the time of vest, Mr. Carter was not a Named Executive Officer for the Company.
+(3) Reflects shares received by Mr. Schriesheim pursuant to the Company’s Second Amended and Restated 2008 Director Long-Term Incentive Plan for his service as a non-employee member of the Board prior to his appointment as Interim Chief Financial Officer. These shares were granted under the same terms and conditions applicable to director equity awards.
+Potential Payments Upon Termination or Change in Control
+Mr. Brace
+The Company entered into a Change in Control / Severance Agreement with Mr. Brace on February 17, 2025 (the “Brace Agreement”) in connection with his appointment as Chief Executive Officer and President.
+
+The Brace Agreement sets out severance benefits that become payable if, within the period of time commencing three (3) months prior to and ending two (2) years following a change in control, Mr. Brace’s employment is either (i) terminated by the Company without cause, or (ii) terminated by him for good reason (a “Qualifying Termination”). The severance benefits provided to Mr. Brace in such circumstances would consist of the following: (i) a lump-sum payment equal to two (2) times the sum of (A) his annual base salary immediately prior to the change in control, and (B) the target annual short-term cash incentive opportunity for the year in which the change of control occurs (or, if no target has yet been set for such year, the target annual short-term cash incentive opportunity for the prior year); (ii) if he has not yet received a cash incentive award under the Company’s executive incentive plan for the fiscal year preceding the date of termination of his employment, the executive incentive plan award Mr. Brace would have received for such prior fiscal year had he remained employed by the Company on the date of payment; (iii) all of Mr. Brace’s then-outstanding stock options would remain exercisable for a period of thirty (30) months after the termination date (but not beyond the expiration of their respective maximum terms); and (iv) COBRA continuation for up to eighteen (18) months after the termination date.
+
+The Brace Agreement also provides that in the event of a Qualifying Termination, Mr. Brace is entitled to full acceleration of the vesting of all of his outstanding equity awards (including stock options, restricted stock awards, RSU awards, and all earned but unissued performance-based equity awards). At the time of a change in control, all such outstanding equity awards would continue to be subject to the same time-based vesting schedule to which the awards were subject prior to the change in control (including performance-based equity awards that are deemed earned at the time of the change in control as described below). For performance-based equity awards where the change in control occurs prior to the end of the applicable performance period, such awards would be deemed earned as to the greater of (i) the target level of shares for such awards, or (ii) if such calculation is determined to be practicable by the Compensation and Talent Committee, the number of shares that would have been earned pursuant to the terms of such awards based upon performance up through and including the day prior to the date of the change in control. In the event that the successor or surviving company does not agree to assume, or to substitute for, such outstanding equity awards on substantially similar terms with substantially equivalent economic benefits as exist for each such award immediately prior to the change in control, then such awards would accelerate in full as of the change in control.
+
+The Brace Agreement also sets out severance benefits outside a change in control that become payable if Mr. Brace’s employment is terminated by the Company without cause or if Mr. Brace terminates his employment with the Company for good reason. The severance benefits provided to Mr. Brace under such circumstance would consist of the following: (a) a lump sum equal to one and one-half (1.5) times (x) his annual base salary, and (y) target annual short-term cash incentive opportunity then-in effect (or, if no target has been set for such year, the target annual short-term cash incentive opportunity for the prior year); (b) if he has not yet received a cash incentive award under the Company’s executive incentive plan for the fiscal year preceding the date of termination of his
+34
+
+
+employment, the executive incentive plan award he would have received for such prior fiscal year had he remained employed by the Company on the date of payment; (c) (i) all of his stock options would become immediately exercisable and would remain exercisable for a period of two (2) years after the termination date (but not beyond the expiration of their respective maximum terms), (ii) each outstanding time-based restricted stock award (including an award of time-based RSUs) would become immediately vested and free from restrictions as of such termination date, and (iii) he would be entitled to receive the number of performance shares (x) that are earned but unissued and (y) he would have earned had he remained employed through the measurement date (where the termination date is prior to the measurement date of an award) with respect to a performance metric for which the measurement date is no more than twelve (12) months after the termination date; and (d) COBRA continuation coverage for up to fifteen (15) months after the termination date.
+
+In the event of a termination of his employment by reason of Mr. Brace’s death or permanent disability (within the meaning of Section 22(e)(3) of the IRC), the Brace Agreement provides for full acceleration of the vesting of all then-outstanding equity awards subject to time-based vesting (including stock options, restricted stock awards, RSU awards, and all performance-based equity awards where the performance period has ended and the shares are earned but unissued). The Brace Agreement also provides that for a performance-based equity award where Mr. Brace’s death or permanent disability occurs prior to the end of the performance period, such award would be deemed earned as to the greater of (i) the target level of shares for such award, or (ii) the number of shares that would have been earned pursuant to the terms of such award had he remained employed through the end of the performance period, and such earned shares would become vested and issuable to him after the performance period ends. In addition, all outstanding stock options would remain exercisable for a period of one (1) year following the termination of employment (but not beyond the expiration of their respective maximum terms).
+
+Except for the Brace New Hire PSA, which is governed by the Performance Share Agreement dated February 17, 2025 between the Company and Mr. Brace (the “Brace PSA Agreement”), all of Mr. Brace’s equity awards that were outstanding as of October 3, 2025 are subject to the terms of the Brace Agreement described above. The Brace PSA Agreement provides that if Mr. Brace’s employment is terminated outside of a change in control due to death or disability, by the Company without cause, or by Mr. Brace for good reason, any shares subject to the Brace New Hire PSA that have satisfied the performance-based vesting condition but that remain subject to time-based vesting (“earned shares”) will become fully vested and nonforfeitable, and any shares that have not satisfied the performance-based vesting condition (“unearned shares”) will terminate and be forfeited. The Brace PSA Agreement also provides that, in the event of a change in control during the term of the award where Mr. Brace remains employed by the Company, (i) each earned share as of immediately prior to the closing of the change in control will be converted into the right to receive the per-share amount payable or available for distribution to holders of Company common stock in connection with the change in control (the “per share transaction price”) on the original vesting date applicable to such earned share, subject to Mr. Brace’s continued employment with the Company or its successor on such vesting date; and (ii) any unearned shares will become earned (the “CIC Earned Shares”) as of immediately prior to the closing of the change in control solely to the extent the share price hurdle (upon which performance is measured) to which the unearned shares relate is less than the per-share transaction price, with each such CIC Earned Share being converted into the right to receive the per-share transaction price on the one-year anniversary of the closing of the change in control, subject to Mr. Brace’s continued employment with the Company or its successor on such date and any remaining unearned shares being terminated and forfeited. If, within one year following the change in control, Mr. Brace’s employment is terminated by the Company or its successor without cause, by Mr. Brace for good reason or due to death or disability, vesting for all such earned shares and CIC Earned Shares will accelerate such that those shares will become fully vested and payable to Mr. Brace. If the successor in a change in control does not assume or substitute the earned shares and the CIC Earned Shares with the right to receive the per-share transaction price, then all earned shares and CIC Earned Shares will become fully vested as of the change in control.
+
+Additionally, the Brace Agreement and the Brace PSA Agreement require that Mr. Brace sign a release of claims in favor of the Company before he is eligible to receive any severance benefits under the Brace Agreement
+35
+
+
+and the Brace PSA Agreement. The Brace Agreement also contains a non-solicitation provision applicable to Mr. Brace while he is employed by the Company and for twelve (12) months following the termination of his employment.
+
+The terms “change in control,” “cause,” and “good reason”, as such terms are used in the Brace Agreement and the Brace PSA Agreement, are each defined in the Brace Agreement. Change in control means, in summary: (i) the acquisition by a person or a group of 40% or more of the outstanding stock of the Company; (ii) a change, without approval by the Board, of a majority of the Board of the Company; (iii) the acquisition of the Company by means of a reorganization, merger, consolidation, or asset sale; or (iv) stockholder approval of a liquidation or dissolution of the Company. Cause means, in summary: (i) deliberate dishonesty that is significantly detrimental to the best interests of the Company; (ii) conduct constituting an act of moral turpitude; (iii) conviction of, or plea of guilty or nolo contendere to, a felony, (iv) willful disloyalty or insubordination; or (v) incompetent performance or substantial or continuing inattention to or neglect of duties. Good reason means, in summary: (i) a material diminution in his base compensation, authority, duties, or responsibilities over which he retains authority; (ii) a requirement that Mr. Brace report to a corporate officer or employee instead of reporting directly to the Board; (iii) a material change in his office location; or (iv) any action or inaction constituting a material breach by the Company of the terms of the agreement.
+
+Each of the Brace Agreement and the Brace PSA Agreement is intended to be exempt from or compliant with Section 409A of the IRC. The payments due to Mr. Brace under the Brace Agreement and the Brace PSA Agreement are subject to potential reduction in the event that such payments would otherwise become subject to excise tax incurred under Section 4999 of the IRC, if such reduction would result in his retaining a larger amount, on an after-tax basis, than if he had received all of the payments due.
+
+Mr. Carter, Mr. Sennesael, Mr. Kasnavi, Mr. Terry, and Ms. Durham
+The Company entered into a Change in Control / Severance Agreement with Mr. Carter on September 8, 2025 and Amended and Restated Change in Control / Severance Agreements with each of Mr. Sennesael, Mr. Kasnavi, Mr. Terry, and Ms. Durham on May 10, 2023, respectively. Each such Change in Control / Severance Agreement and Amended and Restated Change in Control / Severance Agreement is referred to herein as a “CIC Agreement.” As discussed below in “Severance and Change in Control Benefits Plan,” each of the Named Executive Officers, other than Mr. Brace, who was employed at the time the Severance Plan was adopted in November 2025 executed a participation agreement pursuant to which they agreed to terminate their CIC Agreements and become subject to the Severance Plan.
+
+Each CIC Agreement set out severance benefits that became payable if the executive officer experienced a Qualifying Termination. The severance benefits provided to the executive in such circumstances consisted of the following: (i) a lump sum payment equal to one and one-half (11/2) times the sum of (A) all of the executive’s annual base salary immediately prior to the change in control, and (B) the CIC Bonus Amount; (ii) all of the executive’s then-outstanding stock options would remain exercisable for a period of eighteen (18) months after the termination date (but not beyond the expiration of their respective maximum terms); and (iii) COBRA continuation for up to eighteen (18) months after the termination date. The “CIC Bonus Amount” was an amount equal to the greater of (x) the average of the annual short term cash incentive awards received for the three (3) years prior to the year in which the change of control occurred and (y) the target annual short term cash incentive award for the year in which the change in control occurred.
+
+Each CIC Agreement also provided that in the event of a Qualifying Termination, the executive was entitled to full acceleration of the vesting of all of his outstanding equity awards (including stock options, restricted stock awards, RSU awards, and all earned but unissued performance-based equity awards). At the time of a change in control, all such outstanding equity awards would continue to be subject to the same time-based vesting schedule to which the awards were subject prior to the change in control (including performance-based equity awards that would
+36
+
+
+be deemed earned at the time of the change in control as described below). For performance-based equity awards where the change in control occurred prior to the end of the performance period, such awards were deemed earned as to the greater of (i) the target level of shares for such awards, or (ii) if such calculation was determined to be practicable by the Compensation and Talent Committee, the number of shares that would have been earned pursuant to the terms of such awards based upon performance up through and including the day prior to the date of the change in control. In the event that the successor or surviving company did not agree to assume, or to substitute for, such outstanding equity awards on substantially similar terms with substantially equivalent economic benefits as existed for such award immediately prior to the change in control, then such awards would accelerate in full as of the change in control.
+
+Each CIC Agreement also set out severance benefits outside a change in control that would become payable if the executive’s employment was terminated by the Company without cause. The severance benefits provided to the executive under such circumstance consisted of the following: (i) biweekly compensation continuation payments commencing not more than sixty (60) days after such termination and continuing for a period of twelve (12) months, with each such compensation continuation payment being equal to the aggregate payment amount divided by twenty-six (26), where the aggregate payment was equal to the sum of (x) his then-current annual base salary, and (y) any short-term cash incentive award then due; (ii) all then-vested outstanding stock options would remain exercisable for a period of twelve (12) months after the termination date (but not beyond the expiration of their respective maximum terms); and (iii) COBRA continuation coverage for up to twelve (12) months after the termination date.
+
+In the event of the executive’s death or permanent disability (within the meaning of Section 22(e)(3) of the IRC), each CIC Agreement provided for full acceleration of the vesting of all then-outstanding equity awards subject to time-based vesting (including stock options, restricted stock awards, RSU awards, and all performance-based equity awards where the performance period had ended and the shares were earned but unissued). Each CIC Agreement also provided that for a performance-based equity award where the executive’s death or permanent disability occurred prior to the end of the performance period, such award was deemed earned as to the greater of (i) the target level of shares for such award, or (ii) the number of shares that would have been earned pursuant to the terms of such award had the executive remained employed through the end of the performance period, and such earned shares would become vested and issuable to the executive after the performance period ends. In addition, all outstanding stock options would remain exercisable for a period of twelve (12) months following the termination of employment (but not beyond the expiration of their respective maximum terms).
+
+All of the equity awards that were outstanding as of October 3, 2025 for each of Mr. Carter, Mr. Kasnavi, Mr. Terry, and Ms. Durham were subject to the terms described above for the CIC Agreements. Mr. Sennesael’s employment with the Company ended on May 9, 2025. He did not receive any severance benefits under his CIC Agreement in connection with his voluntary departure from the Company.
+
+Each CIC Agreement was intended to be exempt from or compliant with Section 409A of the IRC and had an initial two (2) year term, and thereafter renewed automatically on an annual basis for up to five (5) additional years unless either the Company or the executive timely provided a notice of non-renewal to the other prior to the end of the then-current term. The payments due to each executive under his or her CIC Agreement were subject to potential reduction in the event that such payments would otherwise have become subject to excise tax incurred under Section 4999 of the IRC, if such reduction would have resulted in the executive retaining a larger amount, on an after-tax basis, than if he had received all of the payments due.
+
+Additionally, each CIC Agreement required that the executive sign a release of claims in favor of the Company before he was eligible to receive any benefits under the agreement. Each CIC Agreement also contained non-solicitation provisions applicable to the executive while he was employed by the Company and for a period of twelve (12) months following the termination of his employment.
+
+37
+
+
+The terms “change in control,” “cause,” and “good reason” were each defined in the CIC Agreements. Change in control means, in summary: (i) the acquisition by a person or a group of 40% or more of the outstanding stock of the Company; (ii) a change, without approval by the Board, of a majority of the Board of the Company; (iii) the acquisition of the Company by means of a reorganization, merger, consolidation, or asset sale; or (iv) stockholder approval of a liquidation or dissolution of the Company. Cause means, in summary: (i) deliberate dishonesty that is significantly detrimental to the best interests of the Company; (ii) conduct constituting an act of moral turpitude; (iii) willful disloyalty or insubordination; or (iv) incompetent performance or substantial or continuing inattention to or neglect of duties. Good reason means, in summary: (i) a material diminution in the executive’s base compensation, authority, duties, or responsibilities; (ii) a material diminution in the authority, duties, or responsibilities of the executive’s supervisor; (iii) a material change in the executive’s office location; or (iv) any action or inaction constituting a material breach by the Company of the terms of the agreement.
+
+The following table summarizes the payments and benefits that would be made by the Company to the Named Executive Officers who were employees of the Company as of October 3, 2025, in the following circumstances as of such date:
+•termination without cause outside of a change in control;
+•termination without cause or for good reason in connection with a change in control; and
+•in the event of a termination of employment because of death or disability.
+
+38
+
+
+The accelerated equity values in the table reflect a price of $77.10 per share, which was the closing sale price of the Company’s common stock on the Nasdaq Global Select Market on October 3, 2025. The table does not reflect any equity awards made after October 3, 2025.
+
+Name	Benefit
+Termination
+w/o Cause
+Outside
+Change in
+Control
+($)(1)
+Termination
+w/o Cause
+or for Good
+Reason,
+After
+Change in
+Control ($)
+Death/
+Disability
+($)
+Philip G. Brace (2)	Salary and Short-Term Incentive	3,510,000(3)	4,680,000(4)	—
+Accelerated RSUs	3,367,882	3,367,882	3,367,882
+Accelerated PSAs	2,525,950(5)	6,314,876(6)	6,341,876
+Medical	41,278	49,534	—
+TOTAL	9,445,110	14,412,292	9,682,758
+Philip Carter (2)	Salary and Short-Term Incentive	600,000(7)	1,800,000(8)	—
+Accelerated RSUs	—	3,058,249	3,058,249
+Accelerated PSAs	—	1,936,906(6)	1,936,906
+Medical	28,940	43,410	—
+TOTAL	628,940	6,838,565	4,995,155
+Reza Kasnavi (2)	Salary and Short-Term Incentive	700,000(7)	1,912,500(8)	—
+Accelerated RSUs	—	3,365,646	3,365,646
+Accelerated PSAs	—	5,832,384(6)	5,832,384
+Medical	10,255	15,383	—
+TOTAL	710,255	11,125,913	9,198,030
+Karilee A. Durham (2)	Salary and Short-Term Incentive	530,000(7)	1,431,000(8)	—
+Accelerated RSUs	—	1,888,565	1,888,565
+Accelerated PSAs	—	3,280,220(6)	3,280,220
+Medical	30,023	49,534	—
+TOTAL	563,023	6,649,319	5,168,785
+Robert J. Terry (2)	Salary and Short-Term Incentive	585,000(7)	1,579,500(8)	—
+Accelerated RSUs	—	2,613,382	2,613,382
+Accelerated PSAs	—	4,506,726(6)	4,506,726
+Medical	30,023	49,534	—
+TOTAL	618,023	8,749,142	7,120,108
+
+________________________
+(1) For Mr. Brace, includes amounts payable pursuant to a termination for good reason outside of a change in control.
+(2) Excludes the value of accrued vacation/paid time off required by law to be paid upon termination.
+(3) Represents an amount equal to one and one-half (1.5) times the sum of (A) Mr. Brace’s annual base salary as of October 3, 2025, and (B) an Incentive Plan payment, which is equal to the “target” short-term cash incentive award for fiscal year 2025.
+(4) Represents an amount equal to two (2) times the sum of (A) Mr. Brace’s annual base salary as of October 3, 2025, and (B) an Incentive Plan payment, the “target” short-term cash incentive award for fiscal year 2025.
+(5) Represents the value of PSAs that were unvested and outstanding as of October 3, 2025, in accordance with Item 402(j) of Regulation S-K, using the following assumption: achievement at 100% of the “maximum” level of performance for the FY25 PSAs emerging revenue growth metric scheduled to vest on November 5, 2026, based on the Company’s actual achievement at 200% of the “target” level of performance with respect to the performance metric measured over a one-year performance period consisting of the Company’s fiscal year 2025.
+39
+
+
+The Brace New Hire PSA is valued at zero as no hurdles have been met and no shares were earned as of October 3, 2025.
+(6) Represents the value of PSAs that were unvested and outstanding as of October 3, 2025, in accordance with Item 402(j) of Regulation S-K, using the following assumptions: (a) achievement at the “target” level of performance for the FY23 PSAs (3-year TSR percentile ranking metric) scheduled to vest on November 8, 2025; (b) achievement at the “target” level of performance for the FY24 PSAs emerging revenue growth metric scheduled to vest on November 7, 2025; (c) achievement at the “target” level of performance for the FY24 PSA EBITDA margin percentile ranking metric scheduled to vest on November 7, 2025; (d) achievement at the “target” level of performance for the FY24 PSAs (3-year TSR percentile ranking metric) scheduled to vest on November 7, 2026, based on the Company’s TSR relative to the applicable peer group for fiscal year 2024 tracking below the “threshold” level of performance; (e) achievement at 100% of the “maximum” level of performance for the FY25 PSAs emerging revenue growth metric scheduled to vest on November 5, 2026, based on the Company’s actual achievement at 200% of the “target” level of performance with respect to the performance metric measured over a one-year performance period consisting of the Company’s fiscal year 2025; (f) achievement at 100% of the “target” level of performance for the FY25 PSAs (EBITDA margin percentile ranking metric) scheduled to vest on November 5, 2027, based on the Company’s tracking of achievement between the “threshold” and “target” levels of performance with respect to the metric measured over a three-year performance period consisting of the Company’s fiscal year 2025, fiscal year 2026 and fiscal year 2027; and (g) achievement at the “target” level of performance for the FY25 PSAs (3-year TSR percentile ranking metric) scheduled to vest on November 5, 2027. The Brace New Hire PSA is valued at zero as no hurdles have been met and no shares were earned as of October 3, 2025. The Carter New Hire PSA is valued assuming the “target” level of performance, as applicable.
+(7) Represents an amount equal to the Named Executive Officer’s annual base salary as of October 3, 2025.
+(8) Represents an amount equal to one and one-half (1.5) times the sum of (A) the Named Executive Officer’s annual base salary as of October 3, 2025, and (B) an Incentive Plan payment, which is equal to the Named Executive Officer’s “target” short-term cash incentive award for fiscal year 2025, since such amount is greater than the three (3) year average of the actual incentive payments made to the Named Executive Officer for fiscal years 2022, 2023, and 2024.
+
+Mr. Griffin
+Mr. Griffin ceased serving as Chief Executive Officer and President on February 17, 2025 and thereafter served in a non-executive role for three months. His employment with the Company ended on May 16, 2025. Under the Griffin Agreement, Mr. Griffin is entitled to severance benefits in connection with a termination without cause or resignation for good reason that is unrelated to a change in control. The severance benefits consist of: (i) a lump-sum payment equal to two (2) times the sum of (A) his then-current annual base salary immediately prior to such termination and (B) the Bonus Amount (as defined below); (ii) full acceleration of the vesting of all of Mr. Griffin’s outstanding stock options, which stock options became exercisable for a period of two (2) years after the termination date (but not beyond the expiration of their respective maximum terms), full acceleration of the vesting of all outstanding restricted stock awards (including awards of RSUs), and the right to receive the number of performance shares under outstanding PSAs that are earned but unissued and that he would have earned had he remained employed through the end of the applicable performance period; and (iii) COBRA continuation for him and his eligible dependents (“COBRA continuation”) for up to fifteen (15) months after the termination date. The “Bonus Amount” is an amount equal to the greater of (x) the average of the short-term cash incentive awards received for the three (3) years prior to 2025, and (y) the target annual short-term cash incentive award for 2025. Notwithstanding the foregoing, in connection with his severance, Mr. Griffin forfeited his PSA award granted for fiscal year 2025, and his RSU award vested on a pro rata basis with respect to 5,934 shares.
+
+Additionally, in accordance with the terms of the Griffin Agreement, Mr. Griffin signed a release of claims in favor of the Company before he was eligible to receive any benefits under the Griffin Agreement. The Griffin Agreement contained a non-solicitation provision that provided that Mr. Griffin may not solicit any of the Company’s employees for twelve (12) months following the termination of his employment.
+40
+
+
+
+The Bonus Amount was $3,760,000, which is equal to the “target” short-term cash incentive award for fiscal year 2025. The value of Mr. Griffin’s unvested equity that accelerated on May 16, 2025 totaled $7,202,862. In addition, Mr. Griffin received a cash payment for accrued but unused vacation in the amount of $180,771 and 15 months company-paid COBRA premiums in the amount of $43,193. The total benefits that Mr. Griffin received upon his departure from the Company effective and as of May 16, 2025 was $13,554,636. Following his departure from the Company and pursuant to the terms of the Griffin Agreement, the outstanding PSA granted in fiscal year 2024 with respect to the EBITDA margin percentile ranking metric that Mr. Griffin would have earned had he remained employed through the end of the applicable performance period were issued on November 7, 2025 in the amount of $1,098,112. In addition, Mr. Griffin continues to hold outstanding PSAs granted in fiscal year 2024 with respect to the TSR percentile ranking metric that may be earned after the end of the applicable performance period ending on October 2, 2026.
+
+Severance and Change in Control Benefits Plan
+In November 2025, the Compensation and Talent Committee adopted the Severance Plan. The Severance Plan applies to individuals who are (i) regular full-time employees who are, or were immediately prior to the occurrence of a change in control, Senior Vice Presidents or above, reporting to the Chief Executive Officer and (ii) not otherwise designated as ineligible to receive severance benefits under the Severance Plan (each, a “Covered Executive”). The Severance Plan does not apply to our Chief Executive Officer. Any employee who is party to a CIC Agreement is not eligible to receive severance benefits under the Severance Plan unless he or she executes a participation agreement under the Severance Plan that provides, among other things, for the termination of his or her CIC Agreement. Each of the Named Executive Officers, other than Mr. Brace, who was employed at the time the Severance Plan was adopted in November 2025 executed a participation agreement that provided for, among other things, the termination of his or her CIC Agreement, and became subject to the Severance Plan.
+
+The Severance Plan sets out severance benefits that become payable if, while employed by the Company, other than following a change in control, the Covered Executive is terminated by the Company without cause (as defined in the Severance Plan) more than three months prior to or more than two years following a change in control (the “Severance Benefits”). The Severance Benefits provided to the Covered Executive in such circumstances would consist of the following: (i) a single lump sum payment equal to the Covered Executive’s then current base salary, (ii) an amount, in cash, equal to the Covered Executive’s annual short-term incentive opportunity for the year in which termination of employment occurs, to the extent of actual achievement of the performance goals applicable thereto, and prorated based on the number of full months the Covered Executive worked for the Company during the applicable performance year; (iii) to the extent it has not yet been paid, pay the Covered Executive the amount, in cash, of any short-term incentive award the Covered Executive would have received for the fiscal year preceding the date of the Covered Executive’s termination of employment had the Covered Executive remained employed through the applicable payment date; and (iv) COBRA continuation for up to twelve (12) months after the termination date.
+
+The Severance Benefits under the Severance Plan also provide that: (i) any outstanding and unvested equity awards held by the Covered Executive as of the termination date that vest solely based on the continued performance of services (including performance-based equity awards the performance period(s) of which have been completed but which remain subject to service-based vesting) will become vested, exercisable and free from forfeiture, as applicable, with respect to the portion of such equity awards that otherwise would have become vested during the twelve (12) month period following the termination date; (ii) any outstanding performance-based equity award that vests in whole or in part based upon the achievement of performance metrics and for which, as of an applicable date, the measurement date (i.e., the last day of the applicable performance period) has not occurred (each, an “In-Flight Performance Award”) held by the Covered Executive as of the termination date, will, to the extent the measurement date would occur within twelve (12) months of the termination date, remain outstanding, be deemed earned as to the number of shares that would have been earned pursuant to the terms of such award had the Covered Executive remained employed through the applicable measurement date, and automatically become vested, exercisable and
+41
+
+
+free from forfeiture, as applicable, with respect to 100% of such earned shares; and (iii) all outstanding stock options that are exercisable as of the termination date will remain exercisable for a period of twelve (12) months after the date of termination (but not beyond the expiration of their respective maximum terms).
+
+The Severance Plan also sets out severance benefits that become payable if, within the period beginning three (3) months prior to and ending two (2) years following a change in control, the Covered Executive’s employment is either (i) terminated by the Company without cause, or (ii) terminated by the Covered Executive for good reason (“Change in Control Severance Benefits”).
+
+The Change in Control Severance Benefits would consist of the following: (i) a single lump sum, an amount equal to one and one-half (1.5) times the sum of (a) the Covered Executive’s base salary as of immediately prior to the change in control, and (b) the Covered Executive’s target annual short-term cash incentive opportunity for the year in which the change in control occurs; (ii) to the extent it has not yet been paid, the Covered Executive the amount, in cash, of any short-term incentive award the Covered Executive would have received for the fiscal year preceding the date of the Covered Executive’s termination of employment had the Covered Executive remained employed through the applicable payment date; and (iii) COBRA continuation for up to eighteen (18) months after the termination date. The Change in Control Severance Benefits under the Severance Plan also provide that any outstanding and unvested equity awards held by the Covered Executive as of the termination date that vest solely based on the continued performance of services (including performance-based equity awards the performance period(s) of which have been completed (or deemed to have been completed, as described below) but which remain subject to service-based vesting) will become vested, exercisable and free from forfeiture, as applicable, in full, with all such outstanding equity awards continuing to be subject to the same time-based vesting schedule to which the awards were subject prior to the change in control (including performance-based equity awards that are deemed earned at the time of the change in control as described below). For In-Flight Performance Awards, such awards would be deemed earned as to the greater of (i) the target level of shares for such awards, or (ii) if such calculation is determined to be practicable by the Compensation and Talent Committee, the number of shares that would have been earned pursuant to the terms of such awards based upon performance up through and including the day prior to the date of the change in control. In the event that the successor or surviving company does not agree to assume, or to substitute for, such outstanding equity awards on substantially similar terms with substantially equivalent economic benefits as exist for such awards immediately prior to the change in control, then such awards would accelerate in full as of the change in control. In addition, all outstanding stock options would remain exercisable for a period of eighteen (18) months following the termination of employment (but not beyond the expiration of their respective maximum terms).
+
+The Severance Plan also provides that in the event of a Covered Executive’s termination of employment by reason of death or permanent disability (within the meaning of Section 22(e)(3) of the IRC), all then-outstanding equity awards that vest solely based on the continued performance of services (including performance-based equity awards the performance period(s) of which have been completed but which remain subject to service-based vesting) will become vested, exercisable and free from forfeiture, as applicable, in full. In addition, each In-Flight Performance Award would be deemed earned as to the greater of (i) the target level of shares for such award, or (ii) the number of shares that would have been earned pursuant to the terms of such award had the Covered Executive remained employed through the end of the performance period, and such earned shares would become vested and issuable to the Covered Executive after the performance period ends. In addition, all outstanding stock options that are exercisable as of the termination date would remain exercisable for a period of twelve (12) months following the termination of employment (but not beyond the expiration of their respective maximum terms).
+
+The payments due to each Covered Executive under the Severance Plan are subject to limitation under the Company’s Executive Officer Cash Severance Limitation Policy and potential reduction in the event that such payments would otherwise become subject to excise tax incurred under Section 4999 of the IRC, if such reduction would result in the Covered Executive retaining a larger amount, on an after-tax basis, than if he had received all of the payments due.
+42
+
+
+
+The terms “change in control,” “cause,” and “good reason” are each defined in the Severance Plan. Change in control means, in summary: (i) the acquisition by a person or a group of 40% or more of the outstanding stock of the Company; (ii) a change, without approval by the Board, of a majority of the Board of the Company; (iii) the acquisition of the Company by means of a reorganization, merger, consolidation, or asset sale; or (iv) stockholder approval of a liquidation or dissolution of the Company. Cause means, in summary: (i) deliberate dishonesty that is significantly detrimental to the best interests of the Company; (ii) conduct constituting an act of moral turpitude; (iii) willful disloyalty or insubordination; or (iv) incompetent performance or substantial or continuing inattention to or neglect of duties. Good reason means, in summary: (i) a material diminution in the Covered Executive’s base compensation, authority, duties, or responsibilities; (ii) a material diminution in the authority, duties, or responsibilities of the Covered Executive’s supervisor; (iii) a material change in the Covered Executive’s office location; or (iv) any action or inaction constituting a material breach by the Company of the terms of any agreement under which the Covered Executive provides services.
+CEO Pay Ratio
+Following is an estimate, prepared under applicable SEC rules, of the ratio of the annual total compensation of our Chief Executive Officer to the median of the annual total compensation of our other employees. For fiscal year 2025:
+•The annualized total compensation of our current Chief Executive Officer, Mr. Brace, who was appointed to the role effective February 17, 2025, is $25,611,697.
+•The annual total compensation of our median compensated employee was $34,250.
+•Based on the foregoing, we estimate that our Chief Executive Officer’s total annual compensation was approximately 748 times that of our median employee.
+
+To determine the median of the annual total compensation of our employees, we applied the following methodology and material assumptions:
+•We did not use the de minimis exception to exclude any non-U.S. employees. We have a globally diverse workforce with total headcount of approximately 10,000 as of October 3, 2025, of which approximately 76% are located outside the United States, primarily in locations employing large direct labor forces such as Mexico and Singapore where wages are significantly lower than in the United States. The median employee within our employee population was identified, consistent with prior years, as of the last day of our fiscal year, or October 3, 2025, and is a full-time employee in our Mexicali, Mexico facility.
+•To identify the median employee, we used a consistently applied compensation measure that included total taxable earnings paid to our employees in the most recently completed taxable year in their respective jurisdictions. This included base salary, overtime pay, shift premiums, recognition bonuses, annual cash incentive awards, and long-term stock-based incentive awards. We annualized the compensation of permanent, full-time, and part-time employees who were hired after the beginning of the most recently completed taxable year in their respective jurisdictions.
+•Using this consistently applied compensation measure, we identified an employee at the median and calculated such employee’s total compensation for fiscal year 2025 in accordance with Item 402(c)(2)(x) of Regulation S-K.
+•We did not use any cost-of-living adjustments in identifying the median employee.
+•Since Mr. Brace was appointed Chief Executive Officer and President effective February 17, 2025, we annualized his base salary and short-term incentive compensation, and added the disclosed values of his stock-based compensation awards and other components of All Other Compensation to arrive at a value of
+43
+
+
+$25,458,149, used for the ratio of annual total compensation for our Chief Executive Officer to the annual total compensation for our median employee. We annualized Mr. Brace’s total compensation as follows:
+
+SCT Components	Actual Values from SCT	Annualized Values + One-Time Values	Treatment
+Salary	$571,154	$926,873	Annualized salary
+Non-Equity Incentive Plan Compensation	$1,155,048	$1,874,420	Annualized short-term incentive comp
+Stock Awards	$22,608,588	$22,608,588	One-time equity awards not annualized
+All Other Compensation	$201,816	$201,816	Not annualized
+Total CEO Pay	$24,536,606	$25,611,697
+
+
+We believe our pay ratio presented above is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee’s annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions, and to make reasonable estimates and assumptions. As a result, the pay ratio reported by other companies may not be comparable to the pay ratio reported above, as other companies may have different employment and compensation practices and may utilize different methodologies, exclusions, estimates, and assumptions in calculating their own pay ratios.
+Director Compensation
+The Board sets the compensation for the Company’s non-employee directors, after receiving the recommendations of the Compensation and Talent Committee. In formulating its recommendations, the Compensation and Talent Committee seeks and receives input from Aon related to the amounts, terms, and conditions of director cash compensation and stock-based compensation awards, with the goal of establishing non-employee director compensation that is similar to, and competitive with, the compensation of non-employee directors at peer companies in the semiconductor industry.
+Cash Compensation
+Non-employee directors are paid, in quarterly installments, an annual retainer of $90,000. Additional annual retainers for Chairman, Lead Independent Director, and/or committee service (paid in quarterly installments) are as follows: any non-employee Chairman of the Board ($130,000); the Lead Independent Director, if one has been appointed ($50,000); the Chairman of the Audit Committee ($30,000); the Chairman of the Compensation and Talent Committee ($20,000); the Chairman of the Nominating and Corporate Governance Committee ($15,000); non-chair member of Audit Committee ($15,000); non-chair member of Compensation and Talent Committee ($10,000); and non-chair member of Nominating and Corporate Governance Committee ($7,500). In addition, the Compensation and Talent Committee continues to retain discretion to recommend to the full Board that additional cash payments be made to a non-employee director for extraordinary service during a fiscal year.
+Equity Compensation
+Currently, following each annual meeting of stockholders, each non-employee director who is reelected and does not serve as Chairman of the Board will receive a grant of RSUs having a value of approximately $225,000 while each non-employee director who is reelected and serves as Chairman of the Board will receive a grant of RSUs having a value of approximately $250,000. Any newly appointed non-employee director will receive an initial equity grant of RSUs having a value of approximately $225,000. The number of shares subject to a non-employee director’s initial RSU award or annual award is determined by dividing the approximate value of the award, as stated above, by the average closing price per share of the Company’s common stock as reported on the Nasdaq Global Select Market (or if the common stock is not then traded on such market, such other market on which the common
+44
+
+
+stock is traded) for each trading day during the 30 consecutive trading day period ending on, and including, the grant date. Unless otherwise determined by the Board, (a) a non-employee director’s initial equity grant of RSUs will vest in three (3) equal annual installments on the first three anniversaries of the date of grant, and (b) a non-employee director’s annual equity grant of RSUs will vest on the first anniversary of the date of grant. In the event of a change in control of the Company, any outstanding options and RSUs awarded under the 2008 Director Long-Term Incentive Plan will become fully exercisable and deemed fully vested, respectively.
+
+No director who is also an employee receives separate compensation for services rendered as a director. Mr. Brace is currently the only director who is also an employee of the Company.
+Director Compensation Table
+The following table summarizes the compensation paid to the Company’s non-employee directors for fiscal year 2025. Mr. Brace and Mr. Schriesheim are excluded from the table because each is a Named Executive Officer and their compensation is set forth above, under “Compensation Tables for Named Executive Officers—Summary Compensation Table.”
+
+Name (3)
+Fees Earned
+or Paid in Cash
+($)
+Stock
+Awards
+($)(1)(2)
+Total
+($)
+Christine King, Chairman	219,258	250,041	469,298
+Alan S. Batey	104,093	225,043	329,136
+Kevin L. Beebe	105,815	225,043	330,858
+Eric J. Guerin	105,000	225,043	330,043
+Suzanne E. McBride	97,500	225,043	322,543
+David P. McGlade	127,500	225,043	352,543
+Maryann Turcke	102,409	225,043	327,452
+
+________________________
+(1) The non-employee members of the Board, other than Mr. Schriesheim, who were directors on October 3, 2025 held the following aggregate number of unexercised stock options and unvested RSU awards as of such date:
+
+Name
+Number of
+Securities Underlying
+Unexercised Options
+Number of Shares
+Subject to
+Unvested RSUs
+Christine King, Chairman	—	4,071
+Alan S. Batey	—	3,664
+Kevin L. Beebe	—	3,664
+Eric J. Guerin	—	3,664
+Suzanne E. McBride	—	3,664
+David P. McGlade	—	3,664
+Maryann Turcke	—	4,356
+
+
+(2) Reflects the grant date fair value of 3,664 RSUs for each of Mses. McBride and Turcke and Messrs. Batey, Beebe, Guerin and McGlade as non-employee directors, and 4,071 RSUs for Ms. King as non-employee Chairman, granted on May 14, 2025 at the Company’s 2025 Annual Meeting of Stockholders, and computed in accordance with the provisions of ASC 718 using a price of $72.24 per share.
+(3) Compensation for Mr. Schriesheim’s service as a director is omitted from the Director Compensation Table. As a Named Executive Officer for fiscal year 2025, his compensation, including compensation for his services as a non-employee director, is reflected in the executive compensation tables.
+45
+
+
+Director Stock Ownership Requirements
+We have adopted Director Stock Ownership guidelines with the objective of more closely aligning the interests of our directors with those of our stockholders. The minimum number of shares of the Company’s common stock that the Director Stock Ownership guidelines require non-employee directors to hold while serving in their capacity as directors is the director base compensation (currently $90,000) multiplied by five (5), divided by the fair market value of the Company’s common stock (rounded to the nearest 100 shares). For purposes of the Director Stock Ownership guidelines, the fair market value of the Company’s common stock is the average closing price per share of the Company’s common stock as reported on the Nasdaq Global Select Market (or if the common stock is not then traded on such market, such other market on which the common stock is traded) for the twelve (12) month period ending with the determination date. All of our directors have met the stock ownership guidelines as of the date hereof (with the exception of Ms. Turcke who is not required to comply with the guidelines until the fifth anniversary of her appointment to the Board).
+Compensation and Talent Committee Interlocks and Insider Participation
+The Compensation and Talent Committee of the Board currently consists of Mr. Batey (Chairman), Ms. King and Ms. Turcke. During fiscal year 2025, Mr. Schriesheim was also a member of the Compensation and Talent Committee. Except for Mr. Schriesheim, who served as the Company’s Interim Chief Financial Officer from May 29, 2025 until September 8, 2025 and who resigned from the Compensation and Talent Committee as of his appointment as Interim Chief Financial Officer, no member of this committee was at any time during fiscal year 2025 an officer or employee of the Company, was formerly an officer of the Company or any of its subsidiaries, or had any employment relationship with the Company or any of its subsidiaries. No executive officer of the Company has served as a director or member of the compensation committee (or other committee serving an equivalent function) of any other entity, where one of such entity’s executive officers served as a director of the Company or a member of the Compensation and Talent Committee.
+Compensation and Talent Committee Report
+The Compensation and Talent Committee has reviewed and discussed the Compensation Discussion and Analysis included herein with management, and based on the review and discussions, the Compensation and Talent Committee recommended to the Board that the Compensation Discussion and Analysis be included on this Form 10-K for the year ended October 3, 2025.
+
+THE COMPENSATION AND TALENT COMMITTEE
+Alan S. Batey, Chairman
+Christine King
+Maryann Turcke
+46
+
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS.
+Security Ownership of Certain Beneficial Owners and Management
+To the Company’s knowledge, the following table sets forth the beneficial ownership of the Company’s common stock as of January 26, 2026, by the following individuals or entities: (i) each person or entity who beneficially owns five percent (5%) or more of the outstanding shares of the Company’s common stock as of January 26, 2026; (ii) the Named Executive Officers (as defined above in Item 11 “Executive Compensation”); (iii) each director and nominee for director; and (iv) all current executive officers and directors of the Company, as a group.
+
+Beneficial ownership is determined in accordance with the rules of the SEC, is not necessarily indicative of beneficial ownership for any other purpose and does not constitute an admission that the named stockholder is a direct or indirect beneficial owner of those shares. As of January 26, 2026, there were 149,935,620 shares of the Company’s common stock outstanding.
+
+In computing the number of shares of Company common stock beneficially owned by a person and the percentage ownership of that person, shares of Company common stock that are subject to stock options or other rights held by that person that are currently exercisable or that will become exercisable within sixty (60) days of January 26, 2026, are deemed outstanding. These shares are not, however, deemed outstanding for the purpose of computing the percentage ownership of any other person.
+
+Names and Addresses of Beneficial Owners (1)
+Number of Shares
+Beneficially Owned (2)
+Percent of Class
+The Vanguard Group, Inc.	20,714,323(3)	13.8 	%
+BlackRock, Inc.	 16,885,842(4)	11.3 	%
+Pzena Investment Management LLC	12,321,597(5)	8.2 %
+Alan S. Batey	11,995	(*)
+Kevin L. Beebe	53,005	(*)
+Philip G. Brace	17,249	(*)
+Philip Carter	643(6)	(*)
+Karilee A. Durham	34,168	(*)
+Liam K. Griffin	211,585(6)(7)	(*)
+Eric J. Guerin	7,590	(*)
+Reza Kasnavi	27,352(6)	(*)
+Christine King	25,329	(*)
+Suzanne E. McBride	7,598	(*)
+David P. McGlade	47,266	(*)
+Robert A. Schriesheim	63,153	(*)
+Kris Sennesael	32,748(8)	(*)
+Robert J. Terry	23,150(6)	(*)
+Maryann Turcke	6,427	(*)
+All current directors and executive officers as a group (13 persons)	324,925(9)	(*)
+
+________________________
+*    Less than 1%
+(1) Unless otherwise set forth in the following notes, each person’s address is the address of our principal executive offices at Skyworks Solutions, Inc., 5260 California Avenue, Irvine, CA 92617, and stockholders have sole
+47
+
+
+voting and sole investment power with respect to the shares, except to the extent such power may be shared by a spouse or otherwise subject to applicable community property laws.
+(2) The table does not reflect the number of shares of Company common stock to be issued pursuant to unvested RSUs (the “Unvested RSUs”) and PSAs subject to time-based vesting (the “Unvested PSAs”), in each case that are not scheduled to vest within sixty (60) days of January 26, 2026, as follows: Mr. Batey—3,664 shares under Unvested RSUs; Mr. Beebe—3,664 shares under Unvested RSUs; Mr. Brace—119,906 shares under Unvested RSUs and 32,762 shares under Unvested PSAs; Mr. Carter—60,000 shares under Unvested RSUs; Ms. Durham—30,753 shares under Unvested RSUs and 8,806 shares under Unvested PSAs; Mr. Guerin—3,664 shares under Unvested RSUs; Mr. Kasnavi—56,053 shares under Unvested RSUs and 14,224 shares under Unvested PSAs; Ms. King—4,071 shares under Unvested RSUs; Ms. McBride—3,664 shares under Unvested RSUs; Mr. McGlade— 3,664 shares under Unvested RSUs; Mr. Schriesheim—16,613 shares under Unvested RSUs; Mr. Terry—38,605 shares under Unvested RSUs and 10,160 shares under Unvested PSAs; Ms. Turcke—3,664 shares under Unvested RSUs; current directors and executive officers as a group (13 persons)—347,985 shares under Unvested RSUs and 65,952 shares under Unvested PSAs.
+(3) Consists of shares beneficially owned by The Vanguard Group, Inc. (“Vanguard”), which has sole voting power with respect to zero shares, shared voting power with respect to 828,929 shares, sole dispositive power with respect to 19,446,619 shares, and shared dispositive power with respect to 1,267,704 shares. With respect to the information relating to Vanguard, we have relied on information disclosed by Vanguard on a Schedule 13G/A filed with the SEC on October 31, 2025. The address of Vanguard is 100 Vanguard Blvd., Malvern, PA 19355.
+(4) Consists of shares beneficially owned by BlackRock, Inc. (“BlackRock”), in its capacity as a parent holding company of various subsidiaries under Rule 13d1(b)(1)(ii)(G). In its capacity as a parent holding company or control person, BlackRock has sole voting power with respect to 16,087,146 shares and sole dispositive power with respect to 16,885,842 shares which are held by the following of its subsidiaries: BlackRock Life Limited, BlackRock Advisors, LLC, BlackRock Fund Advisors, BlackRock (Netherlands) B.V., BlackRock Institutional Trust Company, National Association, BlackRock Asset Management Ireland Limited, BlackRock Financial Management, Inc., BlackRock Asset Management Schweiz AG, BlackRock Investment Management, LLC, BlackRock Investment Management (UK) Limited, BlackRock Asset Management Canada Limited, BlackRock Asset Management Deutschland AG, BlackRock Investment Management (Australia) Limited, BlackRock Advisors (UK) Limited, BlackRock Asset Management North Asia Limited, and BlackRock Fund Managers Ltd. With respect to the information relating to BlackRock and its affiliated entities, we have relied on information disclosed by BlackRock on a Schedule 13G/A filed with the SEC on July 17, 2025. The address of BlackRock is 50 Hudson Yards, New York, NY 10001.
+(5) Consists of shares beneficially owned by Pzena Investment Management LLC (“Pzena”), which has sole voting power with respect to 10,269,897 shares and sole dispositive power with respect to 12,321,597 shares. With respect to the information relating to Pzena, we have relied on information disclosed by Pzena on a Schedule 13G/A filed with the SEC on July 14, 2025. The address of Pzena is 320 Park Ave., 8th floor, New York, NY 10022.
+(6) Includes shares held in the Company’s 401(k) Savings and Investment Plan as of December 31, 2025.
+(7) This number includes shares held in the Company’s 401(k) Savings and Retirement Plan as of October 31, 2024 and is based on the most recent information available to Skyworks, including the most recent Form 4 filed by Mr. Griffin on November 13, 2024. Mr. Griffin ceased being an executive officer and member of the Board on February 17, 2025, and his employment with the Company ended on May 16, 2025.
+(8) Mr. Sennesael ceased being an executive officer and employee of the Company on May 9, 2025.
+(9) Does not include the shares beneficially owned by Liam K. Griffin and Kris Sennesael, neither of whom was a director or executive officer as of January 26, 2026.
+48
+
+
+Equity Compensation Plan Information
+As of October 3, 2025, the Company has the following equity compensation plans under which its equity securities were authorized for issuance to its employees and/or directors:
+•the 2002 Employee Stock Purchase Plan, as Amended (the “2002 ESPP”)
+•the Non-Qualified Employee Stock Purchase Plan, as Amended (the “Non-Qualified ESPP”)
+•the Second Amended and Restated 2008 Director Long-Term Incentive Plan, as Amended (the “Director LTIP”)
+•the Second Amended and Restated 2015 Long-Term Incentive Plan (the “2015 LTIP”)
+•FY25 Brace RSU
+•FY25 Brace PSA
+•Brace New Hire PSA
+
+Except for the Non-Qualified ESPP and the FY25 Brace RSU, the FY25 Brace PSA and the Brace New Hire PSA, each of which were granted as “inducement grants” within the meaning of Nasdaq Listing Rule 5635(c)(4), each of the foregoing equity compensation plans was approved by the Company’s stockholders. A description of the material features of the Non-Qualified ESPP is provided below under the heading “Non-Qualified Employee Stock Purchase Plan”, and a description of the material features of the FY25 Brace RSU, FY25 Brace PSA and Brace New Hire PSA is provided above under the heading “Compensation Approach for Our Chief Executive Officer”.
+
+The following table presents information about these plans as of October 3, 2025.
+
+Plan Category
+Number of Securities to be
+Issued Upon Exercise of
+Outstanding Options,
+Warrants, and Rights (#)(a)
+Weighted Average
+Exercise Price of
+Outstanding Options,
+Warrants, and Rights ($)(b)
+Number of Securities
+Remaining Available for
+Future Issuance Under
+Equity Compensation
+Plans (Excluding
+Securities Reflected in
+Column (a)) (#)(c)
+Equity compensation plans approved by security holders	4,911,431(1)	82.58(2)	10,736,267(3)
+Equity compensation plans not approved by security holders	564,234(4)	—	341,204(5)
+TOTAL	5,475,665	82.58	11,077,471
+
+________________________
+(1) Consists of (i) 3,280,918 shares to be issued upon vesting of outstanding RSUs under our 2015 LTIP, (ii) 1,620,285 shares to be issued upon vesting of outstanding PSAs at target levels under our 2015 LTIP, and (iii) 10,228 shares to be issued upon vesting of outstanding stock options under our 2015 LTIP.
+(2) The weighted average exercise price does not reflect shares issuable upon the vesting of outstanding RSUs and PSAs, which have no exercise price. Such shares will be issued at the time such awards vest, without any cash consideration payable for those shares.
+(3) Includes (i) 1,730,253 shares of common stock available for future issuance under the 2002 ESPP, (ii) 457,805 shares of common stock available for future issuance under the Director LTIP, and (iii) 8,548,209 shares available for future issuance under the 2015 LTIP.
+49
+
+
+(4) Includes 43,682 shares under the FY25 Brace RSU, which is subject to time-based vesting over a period of four years beginning on November 5, 2024, and 520,552 shares under the FY25 Brace PSA and Brace New Hire PSA, which number assumes achievement of performance goals under the FY25 Brace PSA at target levels of performance and achievement of all share price hurdles under the Brace New Hire PSA.
+(5) Represents 341,204 shares that remain available for future issuance under the Non-Qualified ESPP.
+Non-Qualified Employee Stock Purchase Plan
+We maintain the Non-Qualified ESPP to provide employees of the Company and participating subsidiaries with an opportunity to acquire a proprietary interest in the Company through the purchase, by means of payroll deductions, of shares of the Company’s common stock at a discount from the market price of the common stock at the time of purchase. The Non-Qualified ESPP is intended for use primarily by employees located outside the United States. Under the plan, eligible employees may purchase common stock through payroll deductions of up to 15% of eligible compensation. The price per share is the lower of 85% of the market price at the beginning or end of each six-month offering period.
+FY25 Brace RSU, the FY25 Brace PSA and the Brace New Hire PSA
+A description of the material features of the FY25 Brace RSU, FY25 Brace PSA and Brace New Hire PSA is provided above under the heading “Compensation Approach for Our Chief Executive Officer.”
+50
+
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE.
+Certain Relationships and Related Transactions: Other than compensation agreements and other arrangements which are described above in Item 11 “Executive Compensation,” since September 28, 2024, there has not been a transaction or series of related transactions to which the Company was or is a party involving an amount in excess of $120,000 and in which any director, executive officer, holder of more than five percent (5%) of any class of our voting securities, or any member of the immediate family of any of the foregoing persons, had or will have a direct or indirect material interest. Our Board has adopted a written related person transaction approval policy that sets forth the Company’s policies and procedures for the review, approval, or ratification of any transaction required to be reported in its filings with the SEC. The Company’s policy with regard to related person transactions is that all related person transactions between the Company and any related person (as defined in Item 404 of Regulation S-K) or their affiliates, in which the amount involved is equal to or greater than $120,000, be reviewed by the Company’s General Counsel and approved by the Audit Committee. In addition, the Company’s Code of Business Conduct and Ethics requires that employees discuss with the Company’s Compliance Officer any significant relationship (or transaction) that might raise doubt about such employee’s ability to act in the best interest of the Company.
+
+Director Independence: Each year, the Board reviews the relationships that each director has with the Company and with other parties. Only those directors who do not have any of the categorical relationships that preclude them from being independent within the meaning of applicable Nasdaq Rules and who the Board affirmatively determines have no relationships that would interfere with the exercise of independent judgment in carrying out the responsibilities of a director are considered to be independent directors. The Board has reviewed a number of factors to evaluate the independence of each of its members. These factors include its members’ current and historic relationships with the Company and its competitors, suppliers, and customers; their relationships with management and other directors; the relationships their current and former employers have with the Company; and the relationships between the Company and other companies of which a member of the Company’s Board is a director or executive officer. After evaluating these factors, the Board has determined that eight of the nine members of the Board, namely, Alan S. Batey, Kevin L. Beebe, Eric J. Guerin, Christine King, Suzanne E. McBride, David P. McGlade, Robert A. Schriesheim, and Maryann Turcke, do not have any relationships that would interfere with the exercise of independent judgment in carrying out their responsibilities as directors and that each such director is an independent director of the Company within the meaning of applicable Nasdaq Rules.
+51
+
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES.
+KPMG LLP (Irvine, California, Auditor Firm ID: 185) provided audit services to the Company consisting of the annual audit of the Company’s 2025 consolidated financial statements contained in the Company’s Annual Report on Form 10-K and reviews of the financial statements contained in the Company’s Quarterly Reports on Form 10-Q for fiscal year 2025. The following table summarizes the fees of KPMG LLP billed to the Company for the last two fiscal years.
+
+Fee Category
+Fiscal Year
+2025 ($)
+% of
+Total (%)
+Fiscal Year
+2024 ($)
+% of
+Total (%)
+Audit Fees (1)	2,715,000	81.4	2,622,000	70.0
+Audit-Related Fees (2)	0	0.0	306,026	8.2
+Tax Fees (3)	621,000	18.6	818,008	21.8
+Total Fees	3,336,000	100	3,746,034	100
+
+________________________
+(1) Audit fees consist of fees for the audit of our annual financial statements, review of the interim financial statements included in our quarterly reports on Form 10-Q, and statutory audits and related filings in various foreign locations. Fiscal year 2025 and 2024 audit fees included fees for services incurred in connection with rendering opinions under Section 404 of the Sarbanes-Oxley Act. Fiscal year 2025 and 2024 audit fees also included fees for the issuance of auditor consents to incorporate by reference prior year financial statement opinions in registration statements on Form S-8 filed with the SEC.
+(2) Audit-related fees in fiscal year 2024 consist of fees relating to the real-time system implementation assessment of certain enterprise resource planning software.
+(3) Tax fees consist of fees for tax compliance and tax planning services. Tax compliance services in fiscal year 2025 and 2024 primarily relate to the review of U.S. income tax matters, including the Section 48D advanced manufacturing investment credit in both fiscal years and the research and development tax credit in fiscal year 2025.
+
+In 2003, the Audit Committee adopted a formal policy concerning approval of audit and non-audit services to be provided to the Company by its independent registered public accounting firm, KPMG LLP. The policy requires that all services provided by KPMG LLP, including audit services and permitted audit-related and non-audit services, be preapproved by the Audit Committee. The Audit Committee has delegated to its Chairman the authority to grant pre-approval for audit services and permitted non-audit services, provided that any such approvals are presented to the full Audit Committee for ratification at its next meeting. The Audit Committee preapproved all audit and non-audit services provided by KPMG LLP during fiscal year 2025 and fiscal year 2024.
+52
+
+
+PART IV
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES.
+
+(a)    The following are filed as part of this Annual Report on Form 10-K:
+
+1.	Index to Financial Statements	Page number of the Original Filing
+Report of Independent Registered Public Accounting Firm	Pages 45 through 46
+Consolidated Statements of Operations for the three years ended October 3, 2025
+Page 47
+Consolidated Statements of Comprehensive Income for the three years ended October 3, 2025
+Page 48
+Consolidated Balance Sheets at October 3, 2025 and September 27, 2024
+Page 49
+Consolidated Statements of Cash Flows for the three years ended October 3, 2025
+Page 50
+Consolidated Statements of Stockholders’ Equity for the three years ended October 3, 2025
+Page 51
+Notes to Consolidated Financial Statements	Pages 52 through 72
+
+2.	The schedule listed below is filed as part of this Annual Report on Form 10-K:
+ 	All required schedule information is included in the Notes to Consolidated Financial Statements or is omitted because it is either not required or not applicable.
+3.	The Exhibits listed in the Exhibit Index immediately following this Item 15 are filed as a part of this Annual Report on Form 10-K.
+
+
+(b)    Exhibits
+
+The exhibits required by Item 601 of Regulation S-K are filed herewith and incorporated by reference herein. The response to this portion of Item 15 is submitted under Item 15(a)(3).
+
+53
+
+
+EXHIBIT INDEX
+Exhibit Number
+Exhibit Description	Form	Incorporated by Reference
+Filed Herewith
+File No.	Exhibit	Filing Date
+2.1
+Agreement and Plan of Merger, dated as of October 27, 2025, by and among Skyworks Solutions, Inc., Qorvo, Inc., Comet Acquisition Corp. and Comet Acquisition II, LLC
+8-K	001-05560	2.1	10/28/2025
+3.1
+Restated Certificate of Incorporation, as amended
+10-K	001-05560	3.1	11/7/2025
+3.2
+Fourth Amended and Restated By-laws
+8-K
+001-05560	3.1	5/12/2023
+4.1
+Specimen Certificate of Common Stock
+S-3	333-92394	4	7/15/2002
+4.2
+Description of Capital Stock
+10-K	001-05560	4.2	11/14/2019
+4.3
+Indenture, dated as of May 26, 2021, by and between the Company and U.S. Bank National Association
+8-K	001-05560	4.1	5/26/2021
+4.4
+First Supplemental Indenture, dated as of May 26, 2021, by and between the Company and U.S. Bank National Association
+8-K	001-05560	4.2	5/26/2021
+4.5
+Second Supplemental Indenture, dated as of May 26, 2021, by and between the Company and U.S. Bank National Association
+8-K	001-05560	4.3	5/26/2021
+4.6
+Third Supplemental Indenture, dated as of May 26, 2021, by and between the Company and U.S. Bank National Association
+8-K	001-05560	4.4	5/26/2021
+10.1*
+Skyworks Solutions, Inc. 2002 Employee Stock Purchase Plan, as Amended
+10-Q	001-05560	10.2	7/31/2024
+10.2*
+Skyworks Solutions, Inc. Non-Qualified Employee Stock Purchase Plan, as Amended
+10-Q	001-05560	10.3	7/31/2024
+10.3*
+Skyworks Solutions, Inc. Second Amended and Restated 2008 Director Long-Term Incentive Plan
+10-Q	001-05560	10.1	5/7/2025
+10.4*
+Form of Nonstatutory Stock Option Agreement under the Company’s 2008 Director Long-Term Incentive Plan
+10-Q	001-05560	10.OO	5/7/2008
+10.5*
+Form of Restricted Stock Unit Agreement under the Company’s Amended and Restated 2008 Director Long-Term Incentive Plan
+10-Q	001-05560	10.2	5/4/2016
+10.6*
+Skyworks Solutions, Inc. Second Amended and Restated 2015 Long-Term Incentive Plan (incorporated by reference to Annex 1 to the Company’s Definitive Proxy Statement filed with the SEC on March 28, 2024)
+DEF 14A	001-05560		3/28/2024
+10.7*
+Form of Nonstatutory Stock Option Agreement under the Company’s Second Amended and Restated 2015 Long-Term Incentive Plan
+10-K	001-05560	10.7	11/15/2024
+10.8*
+Form of Performance Share Agreement under the Company’s Second Amended and Restated 2015 Long-Term Incentive Plan
+10-K	001-05560	10.8	11/15/2024
+10.9*
+Form of Restricted Stock Unit Agreement under the Company’s Second Amended and Restated 2015 Long-Term Incentive Plan
+10-K	001-05560	10.9	11/15/2024
+10.10*^
+Fiscal Year 2025 Executive Incentive Plan
+10-Q	001-05560	10.1	2/5/2025
+10.11*
+Skyworks Solutions, Inc. Cash Compensation Plan for Directors
+10-Q	001-05560	10.1	5/1/2024
+10.12*
+Change in Control / Severance Agreement, dated February 17, 2025, between the Company and Philip Brace
+10-Q	001-05560	10.3	5/7/2025
+10.13*
+Severance and Change in Control Benefits Plan
+8-K	001-05560	10.1	11/14/2025
+
+54
+
+
+10.14
+Commitment Letter, dated as of October 27, 2025, by and between Skyworks Solutions, Inc. and Goldman Sachs Bank USA
+8-K	001-05560	10.1	10/28/2025
+10.15
+Voting and Support Agreement, dated as of October 27, 2025, by and between Skyworks Solutions, Inc. and certain affiliates of Starboard Value
+8-K	001-05560	10.2	10/28/2025
+10.16
+Revolving Credit Agreement, dated as of May 21, 2021, among the Company, the Borrowing Subsidiaries party thereto, the lenders party thereto and JPMorgan Chase Bank, N.A., as the administrative agent
+8-K	001-05560	10.2
+5/26/2021
+10.17
+First Amendment, dated as of March 6, 2023, among the Company, the borrowing subsidiaries party thereto, the lenders party thereto and JPMorgan Chase Bank, N.A., as the administrative agent, amending the Revolving Credit Agreement, dated as of May 21, 2021, by and among the Company, the borrowing subsidiaries party thereto, the lenders party thereto and the administrative agent
+8-K	001-05560	10.2
+3/10/2023
+10.18
+Second Amendment, dated as of November 18, 2025, among the Company, the lenders party thereto and JPMorgan Chase Bank, N.A., as the administrative agent, amending the Revolving Credit Agreement, dated as of May 21, 2021, by and among the Company, the borrowing subsidiaries party thereto, the lenders party thereto and the administrative agent
+8-K	001-05560	10.1	11/24/2025
+10.19*
+Offer Letter, dated January 27, 2025, by and between Skyworks Solutions, Inc. and Philip Brace
+10-Q	001-05560	10.2	5/7/2025
+10.20*
+Form of Restricted Stock Unit Agreement for Philip G. Brace’s Inducement Grant Awards
+S-8	333-284984	99.1	2/14/2025
+10.21*
+Form of Performance Share Agreement for Philip G. Brace’s Inducement Grant Awards
+S-8	333-284984	99.2	2/14/2025
+10.22*
+Offer Letter, dated May 29, 2025, by and between Skyworks Solutions, Inc. and Robert Schriesheim
+10-Q	001-05560	10.1	8/5/2025
+10.23*
+Restrictive Stock Unit Agreement for Robert A. Schriesheim
+10-Q	001-05560	10.2	8/5/2025
+10.24*
+Offer Letter, dated August 13, 2025, by and between Skyworks Solutions, Inc. and Philip Carter
+10-K	001-05560	10.29	11/7/2025
+19
+Skyworks Solutions, Inc. Company Policy Regarding Insider Trading and Disclosure of Material Non-Public Information
+10-K/A	001-05560	19	1/24/2025
+21
+Subsidiaries of the Company
+10-K	001-05560	21	11/7/2025
+23.1
+Consent of KPMG LLP
+10-K	001-05560	23.1	11/7/2025
+31.1
+Certification of the Company’s Principal Executive Officer pursuant to Securities and Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+10-K	001-05560	31.1	11/7/2025
+31.2
+Certification of the Company’s Principal Financial Officer pursuant to Securities and Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+10-K	001-05560	31.2	11/7/2025
+31.3
+Certification of the Company’s Principal Executive Officer pursuant to Securities and Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+X
+
+55
+
+
+31.4
+Certification of the Company’s Principal Financial Officer pursuant to Securities and Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+X
+32.1
+Certification of the Company’s Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+10-K	001-05560	32.1	11/7/2025
+32.2
+Certification of the Company’s Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+10-K	001-05560	32.2	11/7/2025
+97.1*
+Skyworks Solutions, Inc. Executive Compensation Recovery Policy
+10-K	001-05560	97.1	11/15/2024
+101.INS	Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+101.SCH	Inline XBRL Taxonomy Extension Schema Document					X
+101.CAL	Inline XBRL Taxonomy Extension Calculation Linkbase Document					X
+101.DEF	Inline XBRL Taxonomy Extension Definition Linkbase Document					X
+101.LAB	Inline XBRL Taxonomy Extension Label Linkbase Document					X
+101.PRE	Inline XBRL Taxonomy Extension Presentation Linkbase Document					X
+104	Cover Page Interactive Data File (formatted as inline XBRL with applicable taxonomy extension information contained in Exhibits 101)
+
+
+* Indicates a management contract or compensatory plan or arrangement.
+^ Portions of this exhibit have been omitted because such information is not material and is the type of information that the Registrant treats as private or confidential.
+56
+
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+
+Date: January 30, 2026
+SKYWORKS SOLUTIONS, INC.
+Registrant
+By:	/s/ Philip G. Brace
+Philip G. Brace
+Chief Executive Officer and President
+(Principal Executive Officer)
+
+
+57
+
