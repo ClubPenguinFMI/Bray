@@ -578,11 +578,31 @@ def main():
     for ticker in SUPPLY_CHAIN_CLUSTER.keys():
         file = find_filing_file("filings", ticker)
 
-        text = extract_10k_from_submission(file)
+        text = read_text(file)
 
         process_file_stock(text, SUPPLY_CHAIN_CLUSTER[ticker])
 
+import csv
 
+
+def save_results_csv(all_results, filepath="supply_chain_relations.csv"):
+    """Save all results to a CSV file."""
+    with open(filepath, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(["source_ticker", "label", "target_ticker", "score", "source_name", "target_name"])
+
+        for ticker, relations in all_results.items():
+            for r in sorted(relations, key=lambda x: x["score"], reverse=True):
+                writer.writerow([
+                    r["head"],
+                    r["label"],
+                    r["tail"],
+                    round(r["score"], 4),
+                    r.get("head_name", ""),
+                    r.get("tail_name", ""),
+                ])
+
+    print(f"Saved {sum(len(v) for v in all_results.values())} relations to {filepath}")
 
 def process_file_stock(text, entity):
     nlp = spacy.blank("en")
@@ -636,9 +656,13 @@ def process_file_stock(text, entity):
 
     sorted_data_desc = sorted(relations, key=lambda x: x['score'], reverse=True)
     print("\nDescending Order by Score:")
+
     for item in sorted_data_desc:
         # if item["score"] > 0.3:
-            print(f"{item['head_text']},{item['label']},{item['tail_text']},{item['score']}")
+        with open("results.csv", "a", newline="", encoding="utf-8") as f:
+            writer = csv.writer(f)
+            writer.writerow([item["head_text"], item["label"], item["tail_text"], item["score"]])
+        print(f"{item['head_text']},{item['label']},{item['tail_text']},{item['score']}")
 
 def find_tickers_in_text(text, ticker_set):
     found = set()
